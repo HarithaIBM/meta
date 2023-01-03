@@ -78,7 +78,7 @@ accordingly if you prefer. See (https://github.com/ZOSOpenTools/zotsampleport/bl
 There are several additional environment variables that can be specified to provide finer-grained control of the build process. 
 For details
 - Run `zopen build -h` for a description of all the environment variables
-- Read the code: (https://github.com/ZOSOpenTools/utils/blob/main/bin/zopen-build). 
+- Read the code: (https://github.com/ZOSOpenTools/meta/blob/main/bin/zopen-build). 
 
 For a sample port, visit the [zotsampleport](https://github.com/ZOSOpenTools/zotsampleport) repo.
 
@@ -91,7 +91,7 @@ You can generate a zopen template project with `zopen generate`. It will ask you
 Run `zopen build` from the root directory of the git repo you would like to build.  For example, m4:
 ```
 cd ${HOME}/zot/dev/m4
-${HOME}/zot/dev/utils/bin/zopen build
+${HOME}/zot/dev/meta/bin/zopen build
 ```
 
 ## zopen-importenvs

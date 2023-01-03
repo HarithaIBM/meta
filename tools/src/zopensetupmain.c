@@ -42,7 +42,7 @@ static void syntax(const char* pgm) {
                   "  The boot subdirectory will have:\n"
                   "    sub-directories created for each of the tools needed for running the zopen utility\n"
                   "  The dev subdirectory will have:\n"
-                  "    a 'git clone' of both the utils and meta repositories\n"
+                  "    a 'git clone' of meta repository\n"
                   "Options:\n"
                   " -v : print out verbose messages\n"
                   " -q : only print out errors\n",
