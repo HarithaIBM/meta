@@ -1,19 +1,9 @@
-  - [Getting Started](/Guides/QuickStart.md)
-    - [Using tools](/Guides/using.md)
-    - [Developing tools](/Guides/developing.md)
-    - [Updating the Docs](/Guides/../UpdateDocs.md)
-  - [Available ports](/Latest.md)
-    - [Current Status](/Progress.md)
-  - [Porting to z/OS guide](/Guides/Porting.md)
-    - [Leveraging the zoslib library](/Guides/Zoslib.md)
-    - [CI/CD pipeline](/Guides/Pipeline.md)
-    - [Troubleshooting](/Guides/CommonSolutions.md)
-  - [FAQ](/Guides/FAQ.md)
-  - [Common Solutions](/Guides/CommonSolutions.md)
-  - Articles
-    - [Using Git on z/OS](/Guides/GitOnZOS.md)
-    - [Using Vim on z/OS](/Guides/VimOnZOS.md)
-  - Resources
-    - [z/OS Open Tools Repos](https://github.com/ZOSOpenTools)
-    - [Discussions](https://github.com/ZOSOpenTools/meta/discussions)
-    - [Guild Meetings](https://github.com/ZOSOpenTools/meta/discussions/categories/guild)
+[Home](/home.md)
+[About](/about.md)
+[Downloads](/downloads.md)
+[Get involved](/get_involved.md)
+[Badges](/badges.md)
+[News](/news.md)
+
+Reference
+ - [install zopen tools](/reference/install_zopen_tools.md)
