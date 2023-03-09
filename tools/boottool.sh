@@ -86,6 +86,7 @@ printSyntax()
 [ -z "${OWNERNAME}" ] && OWNERNAME=$DEFAULT_OWNER && echo "Using default owner name ZOSOpenTools";
 [ -z "${REPO}" ] && (printSyntax)
 [ -z "${RELEASENAME}" ] && getLatestReleaseName
+[ -z "${RELEASENAME}" ] && (printSyntax)
 
 
 echo "Ownername = ${OWNERNAME}, Repo = ${REPO}, Release = ${RELEASENAME}"

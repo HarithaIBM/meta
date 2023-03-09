@@ -4,7 +4,7 @@
 
 if [ -z "$boottools" ]; then
   echo "Updating all boot tools"
-  boottools="meta,curl,make,git,less,perl,jq,bash,diffutils,findutils,coreutils,tar,gzip,xz,bzip2,vim,ncurses"
+  boottools="meta,curl,make,git,less,perl,jq,bash,diffutils,findutils,coreutils,tar,gzip,xz,bzip2,vim,ncurses,man-db,groff,gdbm"
 fi
 
 for tool in $(echo "$boottools" | tr ',' ' '); do
