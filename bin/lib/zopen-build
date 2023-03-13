@@ -376,7 +376,7 @@ checkEnv()
     if [ "${ZOPEN_TARBALL_DEPS}x" = "x" ]; then
       printError "ZOPEN_DEPS or ZOPEN_TARBALL_DEPS needs to be defined to the ported tools this depends on"
     fi
-    implicitDeps="git curl tar"
+    implicitDeps="git curl tar findutils"
     ext=${ZOPEN_TARBALL_URL##*.}
     if [ "${ext}x" = "xzx" ]; then
       implicitDeps="${implicitDeps} xz"
@@ -685,7 +685,7 @@ setEnv()
 
 checkFindVersion()
 {
-  if find --version >/dev/null 2>/dev/null; then
+  if ! find --version >/dev/null 2>/dev/null; then
     printError "find with --version support is required to tag binary files"
   fi
   findraw=$(find --version | awk '{print $4;}')
