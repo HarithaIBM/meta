@@ -688,7 +688,7 @@ checkFindVersion()
   if ! find --version >/dev/null 2>/dev/null; then
     printError "find with --version support is required to tag binary files"
   fi
-  findraw=$(find --version | awk '{print $4;}')
+  findraw=$(find --version | head -1 | awk '{print $4;}')
   v=${findraw%%.*}
   vr=${findraw%.*}
   r=${vr##*.}
