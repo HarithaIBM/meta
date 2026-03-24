@@ -26,6 +26,7 @@
 - 2026-03-21: [Update autoconf-version to 2.73 from 2.72](https://github.com/zopencommunity/autoconfport/pull/53) ❌
 
 ### buildkiteport
+- 2026-03-23: [Update buildkite-version to 3.120.2 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/97) ❌
 - 2026-03-18: [Update buildkite-version to 3.120.1 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/96) ❌
 - 2026-03-13: [Update buildkite-version to 3.120.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/95) ❌
 - 2026-03-10: [Update buildkite-version to 3.119.2 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/94) ❌
@@ -55,7 +56,6 @@
 - 2025-09-05: [Update buildkite-version to 3.104.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/70) ❌
 - 2025-08-07: [Update buildkite-version to 3.103.1 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/69) ❌
 - 2025-07-22: [Update buildkite-version to 3.103.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/68) ❌
-- 2025-07-15: [Update buildkite-version to 3.102.2 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/67) ❌
 
 ### c3270port
 - 2025-12-23: [Update c3270-version to 4.5ga5 from 4.4ga6](https://github.com/zopencommunity/c3270port/pull/32) ❌
@@ -206,6 +206,7 @@
 - 2025-07-26: [Update doxygen-version to Release_1_14_0 from Release_1_13_2](https://github.com/zopencommunity/doxygenport/pull/10) ❌
 
 ### duckdbport
+- 2026-03-23: [Update duckdb-version to 1.5.1 from 1.4.2](https://github.com/zopencommunity/duckdbport/pull/38) ❌
 - 2026-03-09: [Update duckdb-version to 1.5.0 from 1.4.2](https://github.com/zopencommunity/duckdbport/pull/36) ❌
 
 ### emacsport
@@ -230,9 +231,6 @@
 - 2025-05-14: [Update fx-version to 36.0.1 from 34.0.0](https://github.com/zopencommunity/fxport/pull/6) ❌
 - 2025-05-13: [Update fx-version to 36.0.0 from 34.0.0](https://github.com/zopencommunity/fxport/pull/5) ❌
 - 2024-06-27: [Update fx-version to 35.0.0 from 34.0.0](https://github.com/zopencommunity/fxport/pull/2) ❓
-
-### gettextport
-- 2025-07-20: [Update gettext-version to 0.26 from 0.21](https://github.com/zopencommunity/gettextport/pull/36) ❌
 
 ### gflagsport
 - 2025-12-06: [Update gflags-version to 2.3.0 from 2.2.2](https://github.com/zopencommunity/gflagsport/pull/1) ❌
@@ -401,11 +399,6 @@
 
 ### libarchiveport
 - 2026-03-10: [Update archive-version to 3.8.6 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/10) ❌
-- 2026-01-05: [Update archive-version to 3.8.5 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/9) ❌
-- 2025-12-01: [Update archive-version to 3.8.4 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/8) ❌
-- 2025-11-18: [Update archive-version to 3.8.3 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/7) ❌
-- 2025-10-16: [Update archive-version to 3.8.2 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/6) ❌
-- 2025-10-10: [Update archive-version to 3.8.1 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/5) ❌
 
 ### libgdbmport
 - 2025-03-22: [Update libgdbm-version to 1.25 from 1.24](https://github.com/zopencommunity/libgdbmport/pull/10) ❌
@@ -705,9 +698,6 @@
 ### z3port
 - 2025-10-30: [Update z3-version to 4.15.4 from 4.15.3](https://github.com/zopencommunity/z3port/pull/1) ❌
 
-### zstdport
-- 2025-02-20: [Update zstd-version to 1.5.7 from 1.5.5](https://github.com/zopencommunity/zstdport/pull/25) ❌
-
 </details>
 
 <details open>
@@ -993,6 +983,7 @@
 - ✅ treeport - [![Bump Status](https://github.com/zopencommunity/treeport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/treeport/actions/workflows/bump.yml)
 - ✅ ttypeport - [![Bump Status](https://github.com/zopencommunity/ttypeport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/ttypeport/actions/workflows/bump.yml)
 - ✅ unzipport - [![Bump Status](https://github.com/zopencommunity/unzipport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/unzipport/actions/workflows/bump.yml)
+- ❌ usearchport - Workflow not configured
 - ✅ util-linuxport - [![Bump Status](https://github.com/zopencommunity/util-linuxport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/util-linuxport/actions/workflows/bump.yml)
 - ✅ util-macrosport - [![Bump Status](https://github.com/zopencommunity/util-macrosport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/util-macrosport/actions/workflows/bump.yml)
 - ❌ utils - Workflow not configured
@@ -1031,13 +1022,14 @@
 - ✅ zstdport - [![Bump Status](https://github.com/zopencommunity/zstdport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/zstdport/actions/workflows/bump.yml)
 - ❌ zusage - Workflow not configured
 - ✅ zusageport - [![Bump Status](https://github.com/zopencommunity/zusageport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/zusageport/actions/workflows/bump.yml)
+- ✅ z-vector-searchport - [![Bump Status](https://github.com/zopencommunity/z-vector-searchport/actions/workflows/bump.yml/badge.svg)](https://github.com/zopencommunity/z-vector-searchport/actions/workflows/bump.yml)
 
 </details>
 
-**Summary:** 264 active | 54 missing
+**Summary:** 265 active | 55 missing
 
 ---
 
 
-> Last updated: 2026-03-23 06:11:25 EDT
+> Last updated: 2026-03-24 06:11:00 EDT
 

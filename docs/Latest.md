@@ -70,6 +70,16 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
+<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4158 zopen port of sqlite-vec ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+  <div class="tool-info-grid">
+    <div class="tool-name"><strong><a href="https://github.com/zopencommunity/sqlite-vecport" target="_blank" rel="noopener noreferrer">sqlite-vec</a></strong></div>
+    <div class="tool-status">Status: Green</div>
+    <div class="tool-test">Test: 100.0%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4158/sqlite-vec-v0.1.7-alpha.10.20260323_140035.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4158</a></div>
+    <div class="tool-desc" title="zopen port of sqlite-vec">zopen port of sqlite-vec</div>
+  </div>
+</div>
+
 </div>
 
 <div class="table-category" data-category="build_system">
@@ -381,6 +391,16 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
     <div class="tool-test">Test: 100.0%</div>
     <div class="tool-release"><a href="https://github.com/zopencommunity/sqliteport/releases/download/STABLE_sqliteport_3609/sqlite-autoconf-3480000.20250730_044226.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite_3609</a></div>
     <div class="tool-desc" title="A lightweight embedded SQL database engine">A lightweight embedded SQL database engine</div>
+  </div>
+</div>
+
+<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4158 zopen port of sqlite-vec database port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+  <div class="tool-info-grid">
+    <div class="tool-name"><strong><a href="https://github.com/zopencommunity/sqlite-vecport" target="_blank" rel="noopener noreferrer">sqlite-vec</a></strong></div>
+    <div class="tool-status">Status: Green</div>
+    <div class="tool-test">Test: 100.0%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4158/sqlite-vec-v0.1.7-alpha.10.20260323_140035.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4158</a></div>
+    <div class="tool-desc" title="zopen port of sqlite-vec">zopen port of sqlite-vec</div>
   </div>
 </div>
 
@@ -1592,12 +1612,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libgcrypt" data-searchable-text="libgcrypt Green 100.0% STABLE_libgcrypt_4070 A general-purpose cryptographic library library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libgcrypt" data-searchable-text="libgcrypt Green 100.0% STABLE_libgcrypt_4157 A general-purpose cryptographic library library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libgcryptport" target="_blank" rel="noopener noreferrer">libgcrypt</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libgcryptport/releases/download/STABLE_libgcryptport_4070/libgcrypt-1.12.1.20260220_162734.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libgcrypt_4070</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libgcryptport/releases/download/STABLE_libgcryptport_4157/libgcrypt-1.12.1.20260323_112741.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libgcrypt_4157</a></div>
     <div class="tool-desc" title="A general-purpose cryptographic library">A general-purpose cryptographic library</div>
   </div>
 </div>
@@ -1622,12 +1642,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libiconv" data-searchable-text="libiconv Green 100.0% STABLE_libiconv_3446 A library for character set conversion library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libiconv" data-searchable-text="libiconv Green 100.0% DEV_libiconv_3403 A library for character set conversion library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libiconvport" target="_blank" rel="noopener noreferrer">libiconv</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libiconvport/releases/download/STABLE_libiconvport_3446/libiconv-1.18.20250610_024109.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libiconv_3446</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libiconvport/releases/download/DEV_libiconvport_3403/libiconv-master.20250530_224433.zos.pax.Z" target="_blank" rel="noopener noreferrer">DEV_libiconv_3403</a></div>
     <div class="tool-desc" title="A library for character set conversion">A library for character set conversion</div>
   </div>
 </div>
@@ -2186,12 +2206,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libgcrypt" data-searchable-text="libgcrypt Green 100.0% STABLE_libgcrypt_4070 A general-purpose cryptographic library security port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libgcrypt" data-searchable-text="libgcrypt Green 100.0% STABLE_libgcrypt_4157 A general-purpose cryptographic library security port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libgcryptport" target="_blank" rel="noopener noreferrer">libgcrypt</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libgcryptport/releases/download/STABLE_libgcryptport_4070/libgcrypt-1.12.1.20260220_162734.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libgcrypt_4070</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libgcryptport/releases/download/STABLE_libgcryptport_4157/libgcrypt-1.12.1.20260323_112741.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libgcrypt_4157</a></div>
     <div class="tool-desc" title="A general-purpose cryptographic library">A general-purpose cryptographic library</div>
   </div>
 </div>
@@ -3339,4 +3359,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-23 06:19:11 UTC
+Last updated:  2026-03-24 06:17:34 UTC
