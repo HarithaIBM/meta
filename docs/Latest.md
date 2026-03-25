@@ -142,12 +142,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libarchive" data-searchable-text="libarchive Yellow 62.2% STABLE_libarchive_3799 Multi-format archive and compression library compression port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libarchive" data-searchable-text="libarchive Blue 85.7% STABLE_libarchive_4159 Multi-format archive and compression library compression port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libarchiveport" target="_blank" rel="noopener noreferrer">libarchive</a></strong></div>
-    <div class="tool-status">Status: Yellow</div>
-    <div class="tool-test">Test: 62.2%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libarchiveport/releases/download/STABLE_libarchiveport_3799/libarchive-v3.7.9.20251010_041241.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libarchive_3799</a></div>
+    <div class="tool-status">Status: Blue</div>
+    <div class="tool-test">Test: 85.7%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libarchiveport/releases/download/STABLE_libarchiveport_4159/libarchive-v3.8.6.20260324_112426.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libarchive_4159</a></div>
     <div class="tool-desc" title="Multi-format archive and compression library">Multi-format archive and compression library</div>
   </div>
 </div>
@@ -950,12 +950,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="re2c" data-searchable-text="re2c Blue 83.3% STABLE_re2c_3915 A lexer generator for creating lexers development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="re2c" data-searchable-text="re2c Blue 83.3% STABLE_re2c_4162 A lexer generator for creating lexers development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/re2cport" target="_blank" rel="noopener noreferrer">re2c</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 83.3%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/re2cport/releases/download/STABLE_re2cport_3915/re2c-4.3.1.20251203_133059.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_re2c_3915</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/re2cport/releases/download/STABLE_re2cport_4162/re2c-4.5.20260324_160021.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_re2c_4162</a></div>
     <div class="tool-desc" title="A lexer generator for creating lexers">A lexer generator for creating lexers</div>
   </div>
 </div>
@@ -1086,12 +1086,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="jenkins" data-searchable-text="jenkins Skipped N/A STABLE_jenkins_4150 A continuous integration server devops port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="jenkins" data-searchable-text="jenkins Skipped N/A STABLE_jenkins_4161 A continuous integration server devops port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/jenkinsport" target="_blank" rel="noopener noreferrer">jenkins</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/jenkinsport/releases/download/STABLE_jenkinsport_4150/jenkins-DEV.20260318_153955.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_jenkins_4150</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/jenkinsport/releases/download/STABLE_jenkinsport_4161/jenkins-DEV.20260324_155410.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_jenkins_4161</a></div>
     <div class="tool-desc" title="A continuous integration server">A continuous integration server</div>
   </div>
 </div>
@@ -1642,12 +1642,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libiconv" data-searchable-text="libiconv Green 100.0% DEV_libiconv_3403 A library for character set conversion library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libiconv" data-searchable-text="libiconv Green 100.0% STABLE_libiconv_3446 A library for character set conversion library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libiconvport" target="_blank" rel="noopener noreferrer">libiconv</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libiconvport/releases/download/DEV_libiconvport_3403/libiconv-master.20250530_224433.zos.pax.Z" target="_blank" rel="noopener noreferrer">DEV_libiconv_3403</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libiconvport/releases/download/STABLE_libiconvport_3446/libiconv-1.18.20250610_024109.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libiconv_3446</a></div>
     <div class="tool-desc" title="A library for character set conversion">A library for character set conversion</div>
   </div>
 </div>
@@ -1972,12 +1972,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="zoslib" data-searchable-text="zoslib Green 100.0% STABLE_zoslib_4140 A library used by z/OS Open Tools library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="zoslib" data-searchable-text="zoslib Green 100.0% STABLE_zoslib_4163 A library used by z/OS Open Tools library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/zoslibport" target="_blank" rel="noopener noreferrer">zoslib</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/zoslibport/releases/download/STABLE_zoslibport_4140/zoslib-zopen2.20260317_131436.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_zoslib_4140</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/zoslibport/releases/download/STABLE_zoslibport_4163/zoslib-zopen2.20260325_073007.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_zoslib_4163</a></div>
     <div class="tool-desc" title="A library used by z/OS Open Tools">A library used by z/OS Open Tools</div>
   </div>
 </div>
@@ -3359,4 +3359,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-24 06:17:34 UTC
+Last updated:  2026-03-25 06:20:31 UTC

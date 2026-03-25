@@ -14,6 +14,7 @@
 - 2025-07-25: [Update AFLplusplus-version to 4.33 from 4.32c](https://github.com/zopencommunity/aflplusplusport/pull/1) ❌
 
 ### ansibleport
+- 2026-03-24: [Update ansible-version to 2.20.4 from 2.19.0](https://github.com/zopencommunity/ansibleport/pull/9) ❌
 - 2026-02-24: [Update ansible-version to 2.20.3 from 2.19.0](https://github.com/zopencommunity/ansibleport/pull/8) ❌
 - 2026-01-30: [Update ansible-version to 2.20.2 from 2.19.0](https://github.com/zopencommunity/ansibleport/pull/7) ❌
 - 2025-12-10: [Update ansible-version to 2.20.1 from 2.19.0](https://github.com/zopencommunity/ansibleport/pull/6) ❌
@@ -26,6 +27,7 @@
 - 2026-03-21: [Update autoconf-version to 2.73 from 2.72](https://github.com/zopencommunity/autoconfport/pull/53) ❌
 
 ### buildkiteport
+- 2026-03-24: [Update buildkite-version to 3.120.3 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/98) ❌
 - 2026-03-23: [Update buildkite-version to 3.120.2 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/97) ❌
 - 2026-03-18: [Update buildkite-version to 3.120.1 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/96) ❌
 - 2026-03-13: [Update buildkite-version to 3.120.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/95) ❌
@@ -55,7 +57,6 @@
 - 2025-09-11: [Update buildkite-version to 3.105.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/71) ❌
 - 2025-09-05: [Update buildkite-version to 3.104.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/70) ❌
 - 2025-08-07: [Update buildkite-version to 3.103.1 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/69) ❌
-- 2025-07-22: [Update buildkite-version to 3.103.0 from 3.61.0](https://github.com/zopencommunity/buildkiteport/pull/68) ❌
 
 ### c3270port
 - 2025-12-23: [Update c3270-version to 4.5ga5 from 4.4ga6](https://github.com/zopencommunity/c3270port/pull/32) ❌
@@ -247,6 +248,7 @@
 - 2026-02-19: [Update ghcli-version to 2.87.0 from 2.86.0](https://github.com/zopencommunity/githubcliport/pull/74) ❌
 
 ### gitlabcliport
+- 2026-03-24: [Update glab-version to 1.90.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/65) ❌
 - 2026-03-06: [Update glab-version to 1.89.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/64) ❌
 - 2026-03-05: [Update glab-version to 1.88.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/63) ❌
 - 2026-03-03: [Update glab-version to 1.87.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/62) ❌
@@ -276,7 +278,6 @@
 - 2025-08-22: [Update glab-version to 1.67.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/38) ❌
 - 2025-07-29: [Update glab-version to 1.65.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/37) ❌
 - 2025-07-23: [Update glab-version to 1.64.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/36) ❌
-- 2025-07-16: [Update glab-version to 1.63.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/35) ❌
 
 ### gitlab-runnerport
 - 2026-03-19: [Update gitlab-runner-version to 18.10.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/64) ❌
@@ -384,6 +385,7 @@
 - 2025-05-19: [Update hello-version to 2.12.2 from 2.12.1](https://github.com/zopencommunity/helloport/pull/11) ❌
 
 ### hugoport
+- 2026-03-24: [Update hugo-version to 0.159.0 from 0.158.0](https://github.com/zopencommunity/hugoport/pull/67) ❌
 - 2025-12-23: [Update hugo-version to 0.153.2 from 0.153.1](https://github.com/zopencommunity/hugoport/pull/50) ❌
 - 2025-12-19: [Update hugo-version to 0.153.0 from 0.152.2](https://github.com/zopencommunity/hugoport/pull/48) ❌
 - 2025-10-17: [Update hugo-version to 0.151.2 from 0.151.1](https://github.com/zopencommunity/hugoport/pull/44) ❌
@@ -396,9 +398,6 @@
 - 2024-07-19: [Update kotlin-version to 1.9.25 from 1.9.22](https://github.com/zopencommunity/kotlinport/pull/5) ❓
 - 2024-06-08: [Update kotlin-version to 1.9.24 from 1.9.22](https://github.com/zopencommunity/kotlinport/pull/4) ❓
 - 2024-03-07: [Update kotlin-version to 1.9.23 from 1.9.22](https://github.com/zopencommunity/kotlinport/pull/3) ❓
-
-### libarchiveport
-- 2026-03-10: [Update archive-version to 3.8.6 from 3.7.9](https://github.com/zopencommunity/libarchiveport/pull/10) ❌
 
 ### libgdbmport
 - 2025-03-22: [Update libgdbm-version to 1.25 from 1.24](https://github.com/zopencommunity/libgdbmport/pull/10) ❌
@@ -488,6 +487,7 @@
 - 2026-01-27: [Update openssl-3-version to 3.6.1 from 3.6.0](https://github.com/zopencommunity/opensslport/pull/61) ❌
 
 ### osv-scannerport
+- 2026-03-24: [Update osv-scanner-version to 2.3.5 from 2.3.3](https://github.com/zopencommunity/osv-scannerport/pull/33) ❌
 - 2026-03-19: [Update osv-scanner-version to 2.3.4 from 2.3.3](https://github.com/zopencommunity/osv-scannerport/pull/32) ❌
 - 2025-04-30: [Update osv-scanner-version to 2.0.2 from V.R.M](https://github.com/zopencommunity/osv-scannerport/pull/20) ✅
 - 2025-04-03: [Update osv-scanner-version to 2.0.1 from V.R.M](https://github.com/zopencommunity/osv-scannerport/pull/19) ✅
@@ -567,6 +567,7 @@
 - 2025-12-21: [Update re2c-version to 4.4 from 4.3.1](https://github.com/zopencommunity/re2cport/pull/18) ❌
 
 ### redisport
+- 2026-03-24: [Update redis-version to 8.6.2 from 8.2.3](https://github.com/zopencommunity/redisport/pull/23) ❌
 - 2026-02-23: [Update redis-version to 8.6.1 from 8.2.3](https://github.com/zopencommunity/redisport/pull/22) ❌
 - 2026-02-10: [Update redis-version to 8.6.0 from 8.2.3](https://github.com/zopencommunity/redisport/pull/21) ❌
 - 2026-02-08: [Update redis-version to 8.4.1 from 8.2.3](https://github.com/zopencommunity/redisport/pull/20) ❌
@@ -1031,5 +1032,5 @@
 ---
 
 
-> Last updated: 2026-03-24 06:11:00 EDT
+> Last updated: 2026-03-25 06:11:59 EDT
 

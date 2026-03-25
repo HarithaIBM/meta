@@ -1,14 +1,14 @@
 # Upstream Patch Status Report
 
-*Report generated on: 2026-03-24 06:15:54 EDT.*
+*Report generated on: 2026-03-25 06:18:27 EDT.*
 
 ## Overall Summary
 
 - **Total Projects Analyzed:** 304
-- **Total Current Lines of Code (LOC) in Patches:** 55,831
-- **Total Number of Current Patch Files:** 999
-- **Average Current Patch LOC per Project:** 183.65
-- **Average Current Patch Count per Project:** 3.29
+- **Total Current Lines of Code (LOC) in Patches:** 55,883
+- **Total Number of Current Patch Files:** 1,002
+- **Average Current Patch LOC per Project:** 183.83
+- **Average Current Patch Count per Project:** 3.30
 
 ### Historical Trends (All Projects)
 
@@ -75,13 +75,13 @@
 | [conanport](#repo-conanport) | 299 | +0 | 8 |
 | [perlport](#repo-perlport) | 297 | -396 | 7 |
 | [tarport](#repo-tarport) | 293 | +0 | 2 |
+| [libarchiveport](#repo-libarchiveport) | 272 | +52 | 8 |
 | [clangdport](#repo-clangdport) | 272 | +0 | 10 |
 | [ccacheport](#repo-ccacheport) | 264 | +0 | 1 |
 | [fishport](#repo-fishport) | 258 | +0 | 1 |
 | [mesonport](#repo-mesonport) | 257 | +0 | 9 |
 | [gitlab-runnerport](#repo-gitlab-runnerport) | 241 | +0 | 10 |
 | [zstdport](#repo-zstdport) | 236 | +0 | 4 |
-| [libarchiveport](#repo-libarchiveport) | 220 | +0 | 5 |
 | [toml11port](#repo-toml11port) | 217 | +0 | 3 |
 | [ninjaport](#repo-ninjaport) | 210 | +14 | 8 |
 | [nnnport](#repo-nnnport) | 206 | +24 | 1 |
@@ -1973,6 +1973,33 @@
 
 ---
 
+<a id="repo-libarchiveport"></a>
+## libarchiveport
+
+- **Origin Date (First Commit):** 2025-04-29
+- **Current Patch LOC:** 272
+- **Current Patch Count:** 8
+
+### Historical Trends
+
+![LOC Trend for libarchiveport](images/upstream/libarchiveport_current_loc_trend.png)
+![Count Trend for libarchiveport](images/upstream/libarchiveport_current_count_trend.png)
+
+### Current Patch Details
+
+| Patch File (Repo Relative Path) | Source | LOC |
+|---|---|:---|
+| `patches/archive_entry.h.patch` | `patches` | 22 |
+| `patches/archive_entry_copy_stat.c.patch` | `patches` | 24 |
+| `patches/archive_entry_stat.c.patch` | `patches` | 27 |
+| `patches/archive_read_disk_posix.c.patch` | `patches` | 39 |
+| `patches/archive_string.c.patch` | `patches` | 17 |
+| `patches/test_main.c.patch` | `patches` | 62 |
+| `patches/test_read_disk_directory_traversals.c.patch` | `patches` | 37 |
+| `patches/test_sparse_basic.c.patch` | `patches` | 44 |
+
+---
+
 <a id="repo-clangdport"></a>
 ## clangdport
 
@@ -2119,30 +2146,6 @@
 | `patches/PR1/addzostomakefile.patch` | `patches` | 44 |
 | `patches/PR1/assertfirst.patch` | `patches` | 99 |
 | `patches/tests_Makefile.patch` | `patches` | 64 |
-
----
-
-<a id="repo-libarchiveport"></a>
-## libarchiveport
-
-- **Origin Date (First Commit):** 2025-04-29
-- **Current Patch LOC:** 220
-- **Current Patch Count:** 5
-
-### Historical Trends
-
-![LOC Trend for libarchiveport](images/upstream/libarchiveport_current_loc_trend.png)
-![Count Trend for libarchiveport](images/upstream/libarchiveport_current_count_trend.png)
-
-### Current Patch Details
-
-| Patch File (Repo Relative Path) | Source | LOC |
-|---|---|:---|
-| `patches/libarchive/archive_entry.h.patch` | `patches` | 40 |
-| `patches/libarchive/archive_read_disk_posix.c.patch` | `patches` | 39 |
-| `patches/libarchive/test/test_read_disk_directory_traversals.c.patch` | `patches` | 37 |
-| `patches/libarchive/test/test_sparse_basic.c.patch` | `patches` | 44 |
-| `patches/test_utils/test_main.c.patch` | `patches` | 60 |
 
 ---
 
