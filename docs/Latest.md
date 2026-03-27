@@ -60,12 +60,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="llamacpp" data-searchable-text="llamacpp Blue 92.1% DEV_llamacpp_3695 A C++ library for writing high-performance network applications ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="llamacpp" data-searchable-text="llamacpp Blue 84.3% STABLE_llamacpp_4165 A C++ library for writing high-performance network applications ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/llamacppport" target="_blank" rel="noopener noreferrer">llamacpp</a></strong></div>
     <div class="tool-status">Status: Blue</div>
-    <div class="tool-test">Test: 92.1%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/llamacppport/releases/download/DEV_llamacppport_3695/llamacpp-master.20250828_221046.zos.pax.Z" target="_blank" rel="noopener noreferrer">DEV_llamacpp_3695</a></div>
+    <div class="tool-test">Test: 84.3%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/llamacppport/releases/download/STABLE_llamacppport_4165/llamacpp-DEV.20260325_200259.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_llamacpp_4165</a></div>
     <div class="tool-desc" title="A C++ library for writing high-performance network applications">A C++ library for writing high-performance network applications</div>
   </div>
 </div>
@@ -142,12 +142,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libarchive" data-searchable-text="libarchive Blue 85.7% STABLE_libarchive_4159 Multi-format archive and compression library compression port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libarchive" data-searchable-text="libarchive Blue 85.7% STABLE_libarchive_4164 Multi-format archive and compression library compression port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libarchiveport" target="_blank" rel="noopener noreferrer">libarchive</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 85.7%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libarchiveport/releases/download/STABLE_libarchiveport_4159/libarchive-v3.8.6.20260324_112426.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libarchive_4159</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libarchiveport/releases/download/STABLE_libarchiveport_4164/libarchive-v3.8.6.20260325_100049.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libarchive_4164</a></div>
     <div class="tool-desc" title="Multi-format archive and compression library">Multi-format archive and compression library</div>
   </div>
 </div>
@@ -990,12 +990,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4153 A TUI editor development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4168 A TUI editor development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/vimport" target="_blank" rel="noopener noreferrer">vim</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4153/vim-9.2.0200.20260320_154018.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4153</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4168/vim-9.2.0200.20260327_095445.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4168</a></div>
     <div class="tool-desc" title="A TUI editor">A TUI editor</div>
   </div>
 </div>
@@ -1017,6 +1017,16 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
     <div class="tool-test">Test: 100.0%</div>
     <div class="tool-release"><a href="https://github.com/zopencommunity/xorgprotoport/releases/download/STABLE_xorgprotoport_3943/xorgproto-2025.1.20251219_151643.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_xorgproto_3943</a></div>
     <div class="tool-desc" title="X.Org: Protocol Headers">X.Org: Protocol Headers</div>
+  </div>
+</div>
+
+<div class="tool-item-filterable" data-package-name="z-vector-search" data-searchable-text="z-vector-search Green 100.0% STABLE_z-vector-search_4167 A Port of z-vector-search development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+  <div class="tool-info-grid">
+    <div class="tool-name"><strong><a href="https://github.com/zopencommunity/z-vector-searchport" target="_blank" rel="noopener noreferrer">z-vector-search</a></strong></div>
+    <div class="tool-status">Status: Green</div>
+    <div class="tool-test">Test: 100.0%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/z-vector-searchport/releases/download/STABLE_z-vector-searchport_4167/z-vector-search-main.20260326_162337.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_z-vector-search_4167</a></div>
+    <div class="tool-desc" title="A Port of z-vector-search">A Port of z-vector-search</div>
   </div>
 </div>
 
@@ -1328,12 +1338,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4153 A TUI editor editor port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4168 A TUI editor editor port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/vimport" target="_blank" rel="noopener noreferrer">vim</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4153/vim-9.2.0200.20260320_154018.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4153</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4168/vim-9.2.0200.20260327_095445.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4168</a></div>
     <div class="tool-desc" title="A TUI editor">A TUI editor</div>
   </div>
 </div>
@@ -1972,12 +1982,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="zoslib" data-searchable-text="zoslib Green 100.0% STABLE_zoslib_4163 A library used by z/OS Open Tools library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="zoslib" data-searchable-text="zoslib Green 100.0% STABLE_zoslib_4166 A library used by z/OS Open Tools library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/zoslibport" target="_blank" rel="noopener noreferrer">zoslib</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/zoslibport/releases/download/STABLE_zoslibport_4163/zoslib-zopen2.20260325_073007.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_zoslib_4163</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/zoslibport/releases/download/STABLE_zoslibport_4166/zoslib-zopen2.20260326_043921.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_zoslib_4166</a></div>
     <div class="tool-desc" title="A library used by z/OS Open Tools">A library used by z/OS Open Tools</div>
   </div>
 </div>
@@ -3359,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-25 06:20:31 UTC
+Last updated:  2026-03-27 06:18:13 UTC
