@@ -990,12 +990,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4168 A TUI editor development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4169 A TUI editor development port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/vimport" target="_blank" rel="noopener noreferrer">vim</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4168/vim-9.2.0200.20260327_095445.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4168</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4169/vim-v9.2.0250.20260327_124039.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4169</a></div>
     <div class="tool-desc" title="A TUI editor">A TUI editor</div>
   </div>
 </div>
@@ -1338,12 +1338,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4168 A TUI editor editor port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="vim" data-searchable-text="vim Skipped N/A STABLE_vim_4169 A TUI editor editor port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/vimport" target="_blank" rel="noopener noreferrer">vim</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4168/vim-9.2.0200.20260327_095445.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4168</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/vimport/releases/download/STABLE_vimport_4169/vim-v9.2.0250.20260327_124039.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_vim_4169</a></div>
     <div class="tool-desc" title="A TUI editor">A TUI editor</div>
   </div>
 </div>
@@ -2520,12 +2520,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="cmake" data-searchable-text="cmake Blue 82.7% STABLE_cmake_4148 A cross-platform build system uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="cmake" data-searchable-text="cmake Blue 82.7% STABLE_cmake_4171 A cross-platform build system uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/cmakeport" target="_blank" rel="noopener noreferrer">cmake</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 82.7%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/cmakeport/releases/download/STABLE_cmakeport_4148/cmake-4.3.0.20260318_084613.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_cmake_4148</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/cmakeport/releases/download/STABLE_cmakeport_4171/cmake-4.3.1.20260327_185217.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_cmake_4171</a></div>
     <div class="tool-desc" title="A cross-platform build system">A cross-platform build system</div>
   </div>
 </div>
@@ -3286,12 +3286,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="yq" data-searchable-text="yq Green 100.0% STABLE_yq_4095 A command-line JSON and YAML processor utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="yq" data-searchable-text="yq Green 100.0% STABLE_yq_4170 A command-line JSON and YAML processor utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/yqport" target="_blank" rel="noopener noreferrer">yq</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/yqport/releases/download/STABLE_yqport_4095/yq-master.20260227_075718.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_yq_4095</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/yqport/releases/download/STABLE_yqport_4170/yq-master.20260327_152120.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_yq_4170</a></div>
     <div class="tool-desc" title="A command-line JSON and YAML processor">A command-line JSON and YAML processor</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-27 06:18:13 UTC
+Last updated:  2026-03-28 06:17:29 UTC

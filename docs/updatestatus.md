@@ -378,6 +378,7 @@
 - 2025-08-24: [Update groovy-version to 5.0.0 from 4.0.28](https://github.com/zopencommunity/groovyport/pull/20) ❌
 
 ### grpcport
+- 2026-03-27: [Update grpc-version to 1.80.0 from 1.73.0](https://github.com/zopencommunity/grpcport/pull/9) ❌
 - 2026-02-20: [Update grpc-version to 1.78.1 from 1.73.0](https://github.com/zopencommunity/grpcport/pull/8) ❌
 - 2026-02-05: [Update grpc-version to 1.78.0 from 1.73.0](https://github.com/zopencommunity/grpcport/pull/7) ❌
 - 2025-10-21: [Update grpc-version to 1.76.0 from 1.73.0](https://github.com/zopencommunity/grpcport/pull/6) ❌
@@ -698,9 +699,6 @@
 - 2025-08-05: [Update victoriametrics-version to 1.123.0 from 1.97.1](https://github.com/zopencommunity/victoriametricsport/pull/33) ❌
 - 2025-07-21: [Update victoriametrics-version to 1.122.0 from 1.97.1](https://github.com/zopencommunity/victoriametricsport/pull/32) ❌
 
-### vimport
-- 2026-03-26: [Update vim-version to 9.2.0250 from 9.2.0200](https://github.com/zopencommunity/vimport/pull/184) ❌
-
 ### wgetport
 - 2025-12-31: [Update wget2-version to 2.2.1 from 2.1.0](https://github.com/zopencommunity/wgetport/pull/19) ❌
 
@@ -712,9 +710,6 @@
 
 ### xzport
 - 2025-12-17: [Update xz-version to 5.8.2 from 5.8.1](https://github.com/zopencommunity/xzport/pull/26) ❌
-
-### yqport
-- 2026-03-26: [Update yq-version to 4.52.5 from 4.52.4](https://github.com/zopencommunity/yqport/pull/38) ❌
 
 ### z3port
 - 2025-10-30: [Update z3-version to 4.15.4 from 4.15.3](https://github.com/zopencommunity/z3port/pull/1) ❌
@@ -1052,5 +1047,5 @@
 ---
 
 
-> Last updated: 2026-03-27 06:11:02 EDT
+> Last updated: 2026-03-28 06:10:03 EDT
 
