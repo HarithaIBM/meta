@@ -479,6 +479,9 @@
 - 2025-03-05: [Update ncdu-1-version to 1.22 from 1.20](https://github.com/zopencommunity/ncduport/pull/12) ❌
 - 2024-11-19: [Update ncdu-1-version to 1.21 from 1.20](https://github.com/zopencommunity/ncduport/pull/11) ❓
 
+### neovimport
+- 2026-03-30: [Update neovim-version to 0.12.0 from 0.11.7](https://github.com/zopencommunity/neovimport/pull/30) ❌
+
 ### netpbmport
 - 2025-12-30: [Update netpbm-version to 11.13.00 from 11.12.00](https://github.com/zopencommunity/netpbmport/pull/11) ❌
 
@@ -541,6 +544,7 @@
 - 2023-12-22: [Update php-version to 8.3.1 from 8.2.13](https://github.com/zopencommunity/phpport/pull/14) ❓
 
 ### pocoport
+- 2026-03-29: [Update poco-version to 1.15.1 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/12) ❌
 - 2026-02-14: [Update poco-version to 1.15.0 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/11) ❌
 - 2025-05-12: [Update poco-version to 1.14.2 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/10) ❌
 - 2025-02-13: [Update poco-version to 1.14.1 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/9) ❌
@@ -1039,5 +1043,5 @@
 ---
 
 
-> Last updated: 2026-03-29 06:09:56 EDT
+> Last updated: 2026-03-30 06:11:06 EDT
 

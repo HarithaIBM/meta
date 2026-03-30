@@ -1436,12 +1436,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="groovy" data-searchable-text="groovy Skipped N/A STABLE_groovy_3991 A scripting language for the Java platform language port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="groovy" data-searchable-text="groovy Skipped N/A STABLE_groovy_4174 A scripting language for the Java platform language port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/groovyport" target="_blank" rel="noopener noreferrer">groovy</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/groovyport/releases/download/STABLE_groovyport_3991/groovy-DEV.20260119_152149.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_groovy_3991</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/groovyport/releases/download/STABLE_groovyport_4174/groovy-DEV.20260329_152721.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_groovy_4174</a></div>
     <div class="tool-desc" title="A scripting language for the Java platform">A scripting language for the Java platform</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-29 06:17:50 UTC
+Last updated:  2026-03-30 06:18:52 UTC
