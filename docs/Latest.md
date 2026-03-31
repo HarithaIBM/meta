@@ -70,12 +70,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4158 zopen port of sqlite-vec ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4175 zopen port of sqlite-vec ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/sqlite-vecport" target="_blank" rel="noopener noreferrer">sqlite-vec</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4158/sqlite-vec-v0.1.7-alpha.10.20260323_140035.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4158</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4175/sqlite-vec-v0.1.7-alpha.10.20260330_154722.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4175</a></div>
     <div class="tool-desc" title="zopen port of sqlite-vec">zopen port of sqlite-vec</div>
   </div>
 </div>
@@ -394,12 +394,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4158 zopen port of sqlite-vec database port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4175 zopen port of sqlite-vec database port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/sqlite-vecport" target="_blank" rel="noopener noreferrer">sqlite-vec</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4158/sqlite-vec-v0.1.7-alpha.10.20260323_140035.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4158</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4175/sqlite-vec-v0.1.7-alpha.10.20260330_154722.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4175</a></div>
     <div class="tool-desc" title="zopen port of sqlite-vec">zopen port of sqlite-vec</div>
   </div>
 </div>
@@ -1782,12 +1782,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libuv" data-searchable-text="libuv Blue 98.6% STABLE_libuv_3203 An asynchronous I/O library library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libuv" data-searchable-text="libuv Blue 83.5% STABLE_libuv_4176 An asynchronous I/O library library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libuvport" target="_blank" rel="noopener noreferrer">libuv</a></strong></div>
     <div class="tool-status">Status: Blue</div>
-    <div class="tool-test">Test: 98.6%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libuvport/releases/download/STABLE_libuvport_3203/libuv-v1.50.0.20250403_115825.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libuv_3203</a></div>
+    <div class="tool-test">Test: 83.5%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libuvport/releases/download/STABLE_libuvport_4176/libuv-v1.51.0.20260331_081904.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libuv_4176</a></div>
     <div class="tool-desc" title="An asynchronous I/O library">An asynchronous I/O library</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-30 06:18:52 UTC
+Last updated:  2026-03-31 06:20:50 UTC

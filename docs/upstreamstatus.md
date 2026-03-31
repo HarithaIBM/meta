@@ -1,14 +1,14 @@
 # Upstream Patch Status Report
 
-*Report generated on: 2026-03-30 06:16:38 EDT.*
+*Report generated on: 2026-03-31 06:18:27 EDT.*
 
 ## Overall Summary
 
 - **Total Projects Analyzed:** 304
-- **Total Current Lines of Code (LOC) in Patches:** 55,752
-- **Total Number of Current Patch Files:** 1,000
-- **Average Current Patch LOC per Project:** 183.39
-- **Average Current Patch Count per Project:** 3.29
+- **Total Current Lines of Code (LOC) in Patches:** 56,775
+- **Total Number of Current Patch Files:** 1,006
+- **Average Current Patch LOC per Project:** 186.76
+- **Average Current Patch Count per Project:** 3.31
 
 ### Historical Trends (All Projects)
 
@@ -27,12 +27,12 @@
 | [htopport](#repo-htopport) | 4,550 | +0 | 22 |
 | [stablediffusionport](#repo-stablediffusionport) | 2,905 | +0 | 6 |
 | [librdkafkaport](#repo-librdkafkaport) | 2,638 | +0 | 54 |
+| [libuvport](#repo-libuvport) | 2,485 | +1,023 | 32 |
 | [oqs-providerport](#repo-oqs-providerport) | 2,037 | +0 | 18 |
 | [rpmport](#repo-rpmport) | 1,813 | +0 | 34 |
 | [llamacppport](#repo-llamacppport) | 1,649 | -131 | 35 |
 | [bashport](#repo-bashport) | 1,635 | -2,791 | 25 |
 | [gpgport](#repo-gpgport) | 1,560 | +0 | 32 |
-| [libuvport](#repo-libuvport) | 1,462 | +0 | 26 |
 | [rsyncport](#repo-rsyncport) | 1,430 | +470 | 21 |
 | [cmakeport](#repo-cmakeport) | 1,348 | +0 | 1 |
 | [coreutilsport](#repo-coreutilsport) | 1,327 | +0 | 20 |
@@ -472,6 +472,57 @@
 
 ---
 
+<a id="repo-libuvport"></a>
+## libuvport
+
+- **Origin Date (First Commit):** 2023-09-14
+- **Current Patch LOC:** 2,485
+- **Current Patch Count:** 32
+
+### Historical Trends
+
+![LOC Trend for libuvport](images/upstream/libuvport_current_loc_trend.png)
+![Count Trend for libuvport](images/upstream/libuvport_current_count_trend.png)
+
+### Current Patch Details
+
+| Patch File (Repo Relative Path) | Source | LOC |
+|---|---|:---|
+| `stable-patches/CMakeLists.txt.patch` | `stable-patches` | 71 |
+| `stable-patches/docs/src/fs.rst.patch` | `stable-patches` | 15 |
+| `stable-patches/include/uv.h.patch` | `stable-patches` | 22 |
+| `stable-patches/include/uv/errno.h.patch` | `stable-patches` | 17 |
+| `stable-patches/include/uv/os390.h.patch` | `stable-patches` | 26 |
+| `stable-patches/src/unix/core.c.patch` | `stable-patches` | 143 |
+| `stable-patches/src/unix/fs.c.patch` | `stable-patches` | 181 |
+| `stable-patches/src/unix/internal.h.patch` | `stable-patches` | 19 |
+| `stable-patches/src/unix/os390-syscalls.c.patch` | `stable-patches` | 364 |
+| `stable-patches/src/unix/os390-syscalls.h.patch` | `stable-patches` | 54 |
+| `stable-patches/src/unix/os390.c.patch` | `stable-patches` | 749 |
+| `stable-patches/src/unix/pipe.c.patch` | `stable-patches` | 15 |
+| `stable-patches/src/unix/process.c.patch` | `stable-patches` | 107 |
+| `stable-patches/src/unix/signal.c.patch` | `stable-patches` | 19 |
+| `stable-patches/src/unix/stream.c.patch` | `stable-patches` | 145 |
+| `stable-patches/src/unix/tcp.c.patch` | `stable-patches` | 40 |
+| `stable-patches/src/unix/thread.c.patch` | `stable-patches` | 25 |
+| `stable-patches/src/unix/tty.c.patch` | `stable-patches` | 19 |
+| `stable-patches/src/unix/udp.c.patch` | `stable-patches` | 13 |
+| `stable-patches/src/uv-common.c.patch` | `stable-patches` | 15 |
+| `stable-patches/test/run-tests.c.patch` | `stable-patches` | 27 |
+| `stable-patches/test/task.h.patch` | `stable-patches` | 25 |
+| `stable-patches/test/test-fs-copyfile.c.patch` | `stable-patches` | 31 |
+| `stable-patches/test/test-fs-event.c.patch` | `stable-patches` | 22 |
+| `stable-patches/test/test-fs.c.patch` | `stable-patches` | 16 |
+| `stable-patches/test/test-get-currentexe.c.patch` | `stable-patches` | 159 |
+| `stable-patches/test/test-get-passwd.c.patch` | `stable-patches` | 14 |
+| `stable-patches/test/test-list.h.patch` | `stable-patches` | 20 |
+| `stable-patches/test/test-loop-oom.c.patch` | `stable-patches` | 16 |
+| `stable-patches/test/test-spawn.c.patch` | `stable-patches` | 59 |
+| `stable-patches/test/test-thread-name.c.patch` | `stable-patches` | 14 |
+| `stable-patches/test/test-thread-priority.c.patch` | `stable-patches` | 23 |
+
+---
+
 <a id="repo-oqs-providerport"></a>
 ## oqs-providerport
 
@@ -708,51 +759,6 @@
 | `patches/signencrypt.scm.patch` | `patches` | 13 |
 | `patches/t-exectool.c.patch` | `patches` | 15 |
 | `patches/t-stutter.c.patch` | `patches` | 14 |
-
----
-
-<a id="repo-libuvport"></a>
-## libuvport
-
-- **Origin Date (First Commit):** 2023-09-14
-- **Current Patch LOC:** 1,462
-- **Current Patch Count:** 26
-
-### Historical Trends
-
-![LOC Trend for libuvport](images/upstream/libuvport_current_loc_trend.png)
-![Count Trend for libuvport](images/upstream/libuvport_current_count_trend.png)
-
-### Current Patch Details
-
-| Patch File (Repo Relative Path) | Source | LOC |
-|---|---|:---|
-| `stable-patches/CMakeLists.txt.patch` | `stable-patches` | 69 |
-| `stable-patches/docs/src/fs.rst.patch` | `stable-patches` | 15 |
-| `stable-patches/include/uv.h.patch` | `stable-patches` | 22 |
-| `stable-patches/include/uv/errno.h.patch` | `stable-patches` | 17 |
-| `stable-patches/include/uv/os390.h.patch` | `stable-patches` | 21 |
-| `stable-patches/src/unix/core.c.patch` | `stable-patches` | 109 |
-| `stable-patches/src/unix/fs.c.patch` | `stable-patches` | 131 |
-| `stable-patches/src/unix/internal.h.patch` | `stable-patches` | 19 |
-| `stable-patches/src/unix/linux.c.patch` | `stable-patches` | 28 |
-| `stable-patches/src/unix/os390-syscalls.c.patch` | `stable-patches` | 183 |
-| `stable-patches/src/unix/os390-syscalls.h.patch` | `stable-patches` | 26 |
-| `stable-patches/src/unix/os390.c.patch` | `stable-patches` | 144 |
-| `stable-patches/src/unix/process.c.patch` | `stable-patches` | 105 |
-| `stable-patches/src/unix/stream.c.patch` | `stable-patches` | 120 |
-| `stable-patches/src/unix/tcp.c.patch` | `stable-patches` | 40 |
-| `stable-patches/src/unix/thread.c.patch` | `stable-patches` | 25 |
-| `stable-patches/src/uv-common.c.patch` | `stable-patches` | 15 |
-| `stable-patches/test/run-tests.c.patch` | `stable-patches` | 27 |
-| `stable-patches/test/task.h.patch` | `stable-patches` | 24 |
-| `stable-patches/test/test-fs-copyfile.c.patch` | `stable-patches` | 31 |
-| `stable-patches/test/test-fs.c.patch` | `stable-patches` | 17 |
-| `stable-patches/test/test-get-currentexe.c.patch` | `stable-patches` | 159 |
-| `stable-patches/test/test-get-passwd.c.patch` | `stable-patches` | 13 |
-| `stable-patches/test/test-list.h.patch` | `stable-patches` | 20 |
-| `stable-patches/test/test-spawn.c.patch` | `stable-patches` | 59 |
-| `stable-patches/test/test-thread-priority.c.patch` | `stable-patches` | 23 |
 
 ---
 

@@ -151,7 +151,7 @@
 - 2026-01-19: [Update createrepo_c-version to 1.2.2 from 1.2.1](https://github.com/zopencommunity/createrepo_cport/pull/2) ❌
 
 ### creduceport
-- 2025-02-01: [Update creduce-version to 2.10.0 from V.R.M](https://github.com/zopencommunity/creduceport/pull/1) ❌
+- 2025-02-01: [Update creduce-version to 2.10.0 from V.R.M](https://github.com/zopencommunity/creduceport/pull/1) ❓
 
 ### crushport
 - 2026-03-28: [Update crush-version to 0.53.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/100) ❌
@@ -423,8 +423,6 @@
 
 ### libuvport
 - 2026-03-07: [Update libuv-version to 1.52.1 from 1.50.0](https://github.com/zopencommunity/libuvport/pull/19) ❌
-- 2026-02-11: [Update libuv-version to 1.52.0 from 1.50.0](https://github.com/zopencommunity/libuvport/pull/18) ❌
-- 2025-04-25: [Update libuv-version to 1.51.0 from 1.50.0](https://github.com/zopencommunity/libuvport/pull/16) ❌
 
 ### libx11port
 - 2026-02-08: [Update libx11-version to 1.8.13 from 1.8.12](https://github.com/zopencommunity/libx11port/pull/1) ❌
@@ -1043,5 +1041,5 @@
 ---
 
 
-> Last updated: 2026-03-30 06:11:06 EDT
+> Last updated: 2026-03-31 06:12:06 EDT
 
