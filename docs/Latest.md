@@ -70,12 +70,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4175 zopen port of sqlite-vec ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4180 zopen port of sqlite-vec ai port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/sqlite-vecport" target="_blank" rel="noopener noreferrer">sqlite-vec</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4175/sqlite-vec-v0.1.7-alpha.10.20260330_154722.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4175</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4180/sqlite-vec-v0.1.7-alpha.10.20260331_154557.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4180</a></div>
     <div class="tool-desc" title="zopen port of sqlite-vec">zopen port of sqlite-vec</div>
   </div>
 </div>
@@ -394,12 +394,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4175 zopen port of sqlite-vec database port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="sqlite-vec" data-searchable-text="sqlite-vec Green 100.0% STABLE_sqlite-vec_4180 zopen port of sqlite-vec database port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/sqlite-vecport" target="_blank" rel="noopener noreferrer">sqlite-vec</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4175/sqlite-vec-v0.1.7-alpha.10.20260330_154722.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4175</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/sqlite-vecport/releases/download/STABLE_sqlite-vecport_4180/sqlite-vec-v0.1.7-alpha.10.20260331_154557.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_sqlite-vec_4180</a></div>
     <div class="tool-desc" title="zopen port of sqlite-vec">zopen port of sqlite-vec</div>
   </div>
 </div>
@@ -1096,12 +1096,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="jenkins" data-searchable-text="jenkins Skipped N/A STABLE_jenkins_4161 A continuous integration server devops port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="jenkins" data-searchable-text="jenkins Skipped N/A STABLE_jenkins_4181 A continuous integration server devops port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/jenkinsport" target="_blank" rel="noopener noreferrer">jenkins</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/jenkinsport/releases/download/STABLE_jenkinsport_4161/jenkins-DEV.20260324_155410.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_jenkins_4161</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/jenkinsport/releases/download/STABLE_jenkinsport_4181/jenkins-DEV.20260331_155407.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_jenkins_4181</a></div>
     <div class="tool-desc" title="A continuous integration server">A continuous integration server</div>
   </div>
 </div>
@@ -1782,12 +1782,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="libuv" data-searchable-text="libuv Blue 83.5% STABLE_libuv_4176 An asynchronous I/O library library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="libuv" data-searchable-text="libuv Blue 83.5% STABLE_libuv_4182 An asynchronous I/O library library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/libuvport" target="_blank" rel="noopener noreferrer">libuv</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 83.5%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/libuvport/releases/download/STABLE_libuvport_4176/libuv-v1.51.0.20260331_081904.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libuv_4176</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/libuvport/releases/download/STABLE_libuvport_4182/libuv-v1.52.1.20260401_093519.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_libuv_4182</a></div>
     <div class="tool-desc" title="An asynchronous I/O library">An asynchronous I/O library</div>
   </div>
 </div>
@@ -2196,12 +2196,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="gpg" data-searchable-text="gpg Blue 93.9% STABLE_gpg_4018 A free software implementation of the GNU Privacy Guard security port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="gpg" data-searchable-text="gpg Blue 94.0% STABLE_gpg_4178 A free software implementation of the GNU Privacy Guard security port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/gpgport" target="_blank" rel="noopener noreferrer">gpg</a></strong></div>
     <div class="tool-status">Status: Blue</div>
-    <div class="tool-test">Test: 93.9%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/gpgport/releases/download/STABLE_gpgport_4018/gnupg-2.5.17.20260130_021013.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_gpg_4018</a></div>
+    <div class="tool-test">Test: 94.0%</div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/gpgport/releases/download/STABLE_gpgport_4178/gnupg-2.5.18.20260331_123949.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_gpg_4178</a></div>
     <div class="tool-desc" title="A free software implementation of the GNU Privacy Guard">A free software implementation of the GNU Privacy Guard</div>
   </div>
 </div>
@@ -2540,12 +2540,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="curl" data-searchable-text="curl Blue 99.7% STABLE_curl_4034 Networking tool uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="curl" data-searchable-text="curl Blue 99.7% STABLE_curl_4177 Networking tool uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/curlport" target="_blank" rel="noopener noreferrer">curl</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 99.7%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/curlport/releases/download/STABLE_curlport_4034/curl-8.18.0.20260205_151329.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_curl_4034</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/curlport/releases/download/STABLE_curlport_4177/curl-8.18.0.20260331_120737.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_curl_4177</a></div>
     <div class="tool-desc" title="Networking tool">Networking tool</div>
   </div>
 </div>
@@ -3286,12 +3286,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="yq" data-searchable-text="yq Green 100.0% STABLE_yq_4170 A command-line JSON and YAML processor utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="yq" data-searchable-text="yq Green 100.0% STABLE_yq_4179 A command-line JSON and YAML processor utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/yqport" target="_blank" rel="noopener noreferrer">yq</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/yqport/releases/download/STABLE_yqport_4170/yq-master.20260327_152120.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_yq_4170</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/yqport/releases/download/STABLE_yqport_4179/yq-v4.52.5.20260331_140725.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_yq_4179</a></div>
     <div class="tool-desc" title="A command-line JSON and YAML processor">A command-line JSON and YAML processor</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-03-31 06:20:50 UTC
+Last updated:  2026-04-01 06:18:13 UTC

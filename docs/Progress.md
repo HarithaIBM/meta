@@ -700,7 +700,7 @@
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/gpgport" target="_blank" rel="noopener noreferrer">gpgport</a></strong></div>
     <div class="tool-status">3</div>
-    <div class="tool-test">93.9%</div>
+    <div class="tool-test">94.0%</div>
     <div class="tool-release">libgpgme, librepo, rpm</div>
     <div class="tool-desc"></div>
   </div>
@@ -2497,4 +2497,4 @@
   </div>
 </div>
 
-Last updated:  2026-03-31 06:20:50 UTC
+Last updated:  2026-04-01 06:18:13 UTC
