@@ -248,6 +248,7 @@
 - 2026-03-26: [Update ghcli-version to 2.89.0 from 2.86.0](https://github.com/zopencommunity/githubcliport/pull/79) ❌
 
 ### gitlabcliport
+- 2026-04-02: [Update glab-version to 1.91.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/66) ❌
 - 2026-03-24: [Update glab-version to 1.90.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/65) ❌
 - 2026-03-06: [Update glab-version to 1.89.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/64) ❌
 - 2026-03-05: [Update glab-version to 1.88.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/63) ❌
@@ -277,7 +278,6 @@
 - 2025-09-05: [Update glab-version to 1.68.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/39) ❌
 - 2025-08-22: [Update glab-version to 1.67.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/38) ❌
 - 2025-07-29: [Update glab-version to 1.65.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/37) ❌
-- 2025-07-23: [Update glab-version to 1.64.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/36) ❌
 
 ### gitlab-runnerport
 - 2026-03-19: [Update gitlab-runner-version to 18.10.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/64) ❌
@@ -1043,5 +1043,5 @@
 ---
 
 
-> Last updated: 2026-04-02 06:11:05 EDT
+> Last updated: 2026-04-03 06:10:13 EDT
 
