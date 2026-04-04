@@ -154,6 +154,7 @@
 - 2025-02-01: [Update creduce-version to 2.10.0 from V.R.M](https://github.com/zopencommunity/creduceport/pull/1) ❓
 
 ### crushport
+- 2026-04-03: [Update crush-version to 0.55.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/102) ❌
 - 2026-04-01: [Update crush-version to 0.54.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/101) ❌
 - 2026-03-28: [Update crush-version to 0.53.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/100) ❌
 - 2026-03-26: [Update crush-version to 0.52.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/99) ❌
@@ -183,7 +184,6 @@
 - 2026-02-04: [Update crush-version to 0.39.1 from 0.11.0](https://github.com/zopencommunity/crushport/pull/75) ❌
 - 2026-02-03: [Update crush-version to 0.38.1 from 0.11.0](https://github.com/zopencommunity/crushport/pull/74) ❌
 - 2026-02-02: [Update crush-version to 0.38.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/73) ❌
-- 2026-01-31: [Update crush-version to 0.37.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/72) ❌
 
 ### cunitport
 - 2026-01-20: [Update cunit-version to 3.5.4 from 3.2.7](https://github.com/zopencommunity/cunitport/pull/11) ❌
@@ -612,7 +612,7 @@
 - 2025-06-07: [Update sqlite-version to 2025-3500100 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/27) ❌
 - 2025-05-29: [Update sqlite-version to 2025-3500000 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/26) ❌
 - 2025-02-18: [Update sqlite-version to 2025-3490100 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/24) ❌
-- 2025-02-06: [Update sqlite-version to 2025-3490000 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/23) ❌
+- 2025-02-06: [Update sqlite-version to 2025-3490000 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/23) ❓
 
 ### sqlite-vecport
 - 2026-03-17: [Update sqlite-vec-version to 0.1.7 from 0.1.7-alpha.10](https://github.com/zopencommunity/sqlite-vecport/pull/2) ❌
@@ -1043,5 +1043,5 @@
 ---
 
 
-> Last updated: 2026-04-03 06:10:13 EDT
+> Last updated: 2026-04-04 06:10:18 EDT
 
