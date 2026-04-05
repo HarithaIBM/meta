@@ -2866,12 +2866,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="fzf" data-searchable-text="fzf Blue 99.2% STABLE_fzf_4147 A fuzzy finder tool utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="fzf" data-searchable-text="fzf Blue 99.2% STABLE_fzf_4187 A fuzzy finder tool utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/fzfport" target="_blank" rel="noopener noreferrer">fzf</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 99.2%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/fzfport/releases/download/STABLE_fzfport_4147/fzf-v0.70.0.20260318_084439.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_fzf_4147</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/fzfport/releases/download/STABLE_fzfport_4187/fzf-v0.71.0.20260404_152510.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_fzf_4187</a></div>
     <div class="tool-desc" title="A fuzzy finder tool">A fuzzy finder tool</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-04-04 06:17:50 UTC
+Last updated:  2026-04-05 06:17:58 UTC

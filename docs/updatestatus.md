@@ -384,6 +384,7 @@
 - 2025-05-19: [Update hello-version to 2.12.2 from 2.12.1](https://github.com/zopencommunity/helloport/pull/11) ❌
 
 ### hugoport
+- 2026-04-04: [Update hugo-version to 0.160.0 from 0.158.0](https://github.com/zopencommunity/hugoport/pull/70) ❌
 - 2026-04-01: [Update hugo-version to 0.159.2 from 0.158.0](https://github.com/zopencommunity/hugoport/pull/69) ❌
 - 2026-03-26: [Update hugo-version to 0.159.1 from 0.158.0](https://github.com/zopencommunity/hugoport/pull/68) ❌
 - 2026-03-24: [Update hugo-version to 0.159.0 from 0.158.0](https://github.com/zopencommunity/hugoport/pull/67) ❌
@@ -542,7 +543,7 @@
 - 2026-03-29: [Update poco-version to 1.15.1 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/12) ❌
 - 2026-02-14: [Update poco-version to 1.15.0 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/11) ❌
 - 2025-05-12: [Update poco-version to 1.14.2 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/10) ❌
-- 2025-02-13: [Update poco-version to 1.14.1 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/9) ❌
+- 2025-02-13: [Update poco-version to 1.14.1 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/9) ❓
 - 2024-12-02: [Update poco-version to 1.14.0 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/7) ❓
 - 2024-04-05: [Update poco-version to 1.13.3 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/5) ❓
 - 2024-02-20: [Update poco-version to 1.13.2 from 1.12.5p2](https://github.com/zopencommunity/pocoport/pull/4) ❓
@@ -1043,5 +1044,5 @@
 ---
 
 
-> Last updated: 2026-04-04 06:10:18 EDT
+> Last updated: 2026-04-05 06:10:04 EDT
 
