@@ -280,6 +280,7 @@
 - 2025-07-29: [Update glab-version to 1.65.0 from 1.57.0](https://github.com/zopencommunity/gitlabcliport/pull/37) ❌
 
 ### gitlab-runnerport
+- 2026-04-05: [Update gitlab-runner-version to 18.10.1 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/65) ❌
 - 2026-03-19: [Update gitlab-runner-version to 18.10.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/64) ❌
 - 2026-02-20: [Update gitlab-runner-version to 18.9.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/63) ❌
 - 2026-01-16: [Update gitlab-runner-version to 18.8.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/62) ❌
@@ -309,7 +310,6 @@
 - 2025-03-26: [Update gitlab-runner-version to 17.10.1 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/37) ❌
 - 2025-03-19: [Update gitlab-runner-version to 17.10.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/36) ❌
 - 2025-02-20: [Update gitlab-runner-version to 17.9.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/34) ❌
-- 2025-03-08: [Update gitlab-runner-version to 17.9.1 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/35) ❌
 
 ### git-sizerport
 - 2025-04-10: [Update git-sizer-version to 1.5.0 from V.R.M](https://github.com/zopencommunity/git-sizerport/pull/1) ✅
@@ -521,7 +521,7 @@
 - 2025-05-10: [Update php-version to 8.4.7 from 8.2.13](https://github.com/zopencommunity/phpport/pull/34) ❌
 - 2025-04-11: [Update php-version to 8.4.6 from 8.2.13](https://github.com/zopencommunity/phpport/pull/33) ❌
 - 2025-03-13: [Update php-version to 8.4.5 from 8.2.13](https://github.com/zopencommunity/phpport/pull/32) ❌
-- 2025-02-14: [Update php-version to 8.4.4 from 8.2.13](https://github.com/zopencommunity/phpport/pull/31) ❌
+- 2025-02-14: [Update php-version to 8.4.4 from 8.2.13](https://github.com/zopencommunity/phpport/pull/31) ❓
 - 2025-01-17: [Update php-version to 8.4.3 from 8.2.13](https://github.com/zopencommunity/phpport/pull/30) ❓
 - 2024-12-20: [Update php-version to 8.4.2 from 8.2.13](https://github.com/zopencommunity/phpport/pull/29) ❓
 - 2024-11-21: [Update php-version to 8.4.1 from 8.2.13](https://github.com/zopencommunity/phpport/pull/28) ❓
@@ -1044,5 +1044,5 @@
 ---
 
 
-> Last updated: 2026-04-05 06:10:04 EDT
+> Last updated: 2026-04-06 06:10:23 EDT
 
