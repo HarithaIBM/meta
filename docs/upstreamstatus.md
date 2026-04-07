@@ -1,14 +1,14 @@
 # Upstream Patch Status Report
 
-*Report generated on: 2026-04-06 06:15:39 EDT.*
+*Report generated on: 2026-04-07 06:15:47 EDT.*
 
 ## Overall Summary
 
 - **Total Projects Analyzed:** 304
-- **Total Current Lines of Code (LOC) in Patches:** 57,824
-- **Total Number of Current Patch Files:** 1,042
-- **Average Current Patch LOC per Project:** 190.21
-- **Average Current Patch Count per Project:** 3.43
+- **Total Current Lines of Code (LOC) in Patches:** 57,803
+- **Total Number of Current Patch Files:** 1,040
+- **Average Current Patch LOC per Project:** 190.14
+- **Average Current Patch Count per Project:** 3.42
 
 ### Historical Trends (All Projects)
 
@@ -30,7 +30,7 @@
 | [libuvport](#repo-libuvport) | 2,494 | +9 | 32 |
 | [oqs-providerport](#repo-oqs-providerport) | 2,037 | +0 | 18 |
 | [curlport](#repo-curlport) | 1,841 | +0 | 47 |
-| [rpmport](#repo-rpmport) | 1,813 | +0 | 34 |
+| [rpmport](#repo-rpmport) | 1,792 | -22 | 32 |
 | [llamacppport](#repo-llamacppport) | 1,649 | +0 | 35 |
 | [bashport](#repo-bashport) | 1,635 | -2,791 | 25 |
 | [gpgport](#repo-gpgport) | 1,560 | +0 | 32 |
@@ -630,8 +630,8 @@
 ## rpmport
 
 - **Origin Date (First Commit):** 2025-06-26
-- **Current Patch LOC:** 1,813
-- **Current Patch Count:** 34
+- **Current Patch LOC:** 1,792
+- **Current Patch Count:** 32
 
 ### Historical Trends
 
@@ -651,30 +651,28 @@
 | `patches/lib_backend_ndb_rpmidx.c.patch` | `patches` | 43 |
 | `patches/lib_backend_ndb_rpmxdb.c.patch` | `patches` | 46 |
 | `patches/lib_headerfmt.cc.patch` | `patches` | 28 |
-| `patches/lib_keystore.cc.patch` | `patches` | 45 |
+| `patches/lib_keystore.cc.patch` | `patches` | 54 |
 | `patches/lib_rpmfi_internal.hh.patch` | `patches` | 23 |
 | `patches/lib_rpmrc.cc.patch` | `patches` | 17 |
 | `patches/lib_rpmug.cc.patch` | `patches` | 28 |
 | `patches/lib_transaction.cc.patch` | `patches` | 28 |
 | `patches/macros.in.patch` | `patches` | 78 |
-| `patches/misc_fts.c.patch` | `patches` | 67 |
-| `patches/misc_system.h.patch` | `patches` | 33 |
+| `patches/misc_fts.c.patch` | `patches` | 70 |
 | `patches/rpmfi.cc.patch` | `patches` | 258 |
 | `patches/rpmfiles.h.patch` | `patches` | 18 |
-| `patches/rpmio_CMakeLists.txt.patch` | `patches` | 89 |
-| `patches/rpmio_dummy.cc.patch` | `patches` | 16 |
+| `patches/rpmio_CMakeLists.txt.patch` | `patches` | 90 |
 | `patches/rpmio_lposix.cc.patch` | `patches` | 28 |
 | `patches/rpmio_macro.cc.patch` | `patches` | 57 |
+| `patches/rpmio_progname.cc.patch` | `patches` | 17 |
 | `patches/rpmio_rpmglob.cc.patch` | `patches` | 20 |
 | `patches/rpmio_rpmlog.cc.patch` | `patches` | 41 |
 | `patches/rpmio_rpmsq.cc.patch` | `patches` | 13 |
 | `patches/rpmio_rpmstrpool.cc.patch` | `patches` | 25 |
 | `patches/rpmrc.in.patch` | `patches` | 12 |
 | `patches/rpmtag.h.patch` | `patches` | 15 |
-| `patches/rpmtypes.h.patch` | `patches` | 95 |
+| `patches/rpmtypes.h.patch` | `patches` | 93 |
 | `patches/scripts.patch` | `patches` | 35 |
 | `patches/sign_CMakeLists.txt.patch` | `patches` | 10 |
-| `patches/tagname.cc.patch` | `patches` | 0 |
 | `patches/tools_CMakeLists.txt.patch` | `patches` | 47 |
 
 ---

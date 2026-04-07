@@ -348,7 +348,7 @@
 - 2025-04-24: [Update grafana-version to 11.6.1 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/20) ❌
 - 2025-03-26: [Update grafana-version to 11.6.0 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/19) ❌
 - 2025-03-25: [Update grafana-version to 11.5.3 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/18) ❌
-- 2025-02-19: [Update grafana-version to 11.5.2 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/17) ❌
+- 2025-02-19: [Update grafana-version to 11.5.2 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/17) ❓
 - 2025-02-03: [Update grafana-version to 11.5.1 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/16) ❓
 - 2025-01-28: [Update grafana-version to 11.5.0 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/15) ❓
 - 2024-12-06: [Update grafana-version to 11.4.0 from 11.1.3](https://github.com/zopencommunity/grafanaport/pull/14) ❓
@@ -400,6 +400,9 @@
 - 2024-07-19: [Update kotlin-version to 1.9.25 from 1.9.22](https://github.com/zopencommunity/kotlinport/pull/5) ❓
 - 2024-06-08: [Update kotlin-version to 1.9.24 from 1.9.22](https://github.com/zopencommunity/kotlinport/pull/4) ❓
 - 2024-03-07: [Update kotlin-version to 1.9.23 from 1.9.22](https://github.com/zopencommunity/kotlinport/pull/3) ❓
+
+### lazygitport
+- 2026-04-07: [Update lazygit-version to 0.61.0 from 0.60.0](https://github.com/zopencommunity/lazygitport/pull/37) ❌
 
 ### libgdbmport
 - 2025-03-22: [Update libgdbm-version to 1.25 from 1.24](https://github.com/zopencommunity/libgdbmport/pull/10) ❌
@@ -475,6 +478,7 @@
 - 2024-11-19: [Update ncdu-1-version to 1.21 from 1.20](https://github.com/zopencommunity/ncduport/pull/11) ❓
 
 ### neovimport
+- 2026-04-06: [Update neovim-version to 0.12.1 from 0.11.7](https://github.com/zopencommunity/neovimport/pull/31) ❌
 - 2026-03-30: [Update neovim-version to 0.12.0 from 0.11.7](https://github.com/zopencommunity/neovimport/pull/30) ❌
 
 ### netpbmport
@@ -486,7 +490,7 @@
 - 2026-01-30: [Update openldap-version to 2.6.12 from 2.6.10](https://github.com/zopencommunity/openldapport/pull/1) ❌
 
 ### opensshport
-- 2025-02-18: [Update openssh-version to 9.9p2 from 9.9p1](https://github.com/zopencommunity/opensshport/pull/19) ❌
+- 2025-02-18: [Update openssh-version to 9.9p2 from 9.9p1](https://github.com/zopencommunity/opensshport/pull/19) ❓
 - 2024-10-02: [Update openssh-version to 9.9p1 from 9.8p1](https://github.com/zopencommunity/opensshport/pull/15) ❓
 
 ### opensslport
@@ -582,9 +586,6 @@
 - 2025-09-30: [Update redis-version to 8.2.2 from 8.2.0](https://github.com/zopencommunity/redisport/pull/17) ❌
 - 2025-08-22: [Update redis-version to 8.2.1 from 8.2.0](https://github.com/zopencommunity/redisport/pull/16) ❌
 
-### rpmport
-- 2025-12-10: [Update rpm-version to 6.0.1 from 6.0.0](https://github.com/zopencommunity/rpmport/pull/12) ❌
-
 ### rubyport
 - 2026-03-17: [Update ruby-version to 4.0.2 from 3.4.8](https://github.com/zopencommunity/rubyport/pull/7) ❌
 - 2026-01-13: [Update ruby-version to 4.0.1 from 3.4.8](https://github.com/zopencommunity/rubyport/pull/5) ❌
@@ -612,7 +613,7 @@
 - 2025-06-28: [Update sqlite-version to 2025-3500200 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/28) ❌
 - 2025-06-07: [Update sqlite-version to 2025-3500100 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/27) ❌
 - 2025-05-29: [Update sqlite-version to 2025-3500000 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/26) ❌
-- 2025-02-18: [Update sqlite-version to 2025-3490100 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/24) ❌
+- 2025-02-18: [Update sqlite-version to 2025-3490100 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/24) ❓
 - 2025-02-06: [Update sqlite-version to 2025-3490000 from 2025-3480000](https://github.com/zopencommunity/sqliteport/pull/23) ❓
 
 ### sqlite-vecport
@@ -1044,5 +1045,5 @@
 ---
 
 
-> Last updated: 2026-04-06 06:10:23 EDT
+> Last updated: 2026-04-07 06:10:54 EDT
 
