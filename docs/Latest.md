@@ -1096,12 +1096,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="jenkins" data-searchable-text="jenkins Skipped N/A STABLE_jenkins_4181 A continuous integration server devops port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="jenkins" data-searchable-text="jenkins Skipped N/A STABLE_jenkins_4194 A continuous integration server devops port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/jenkinsport" target="_blank" rel="noopener noreferrer">jenkins</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/jenkinsport/releases/download/STABLE_jenkinsport_4181/jenkins-DEV.20260331_155407.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_jenkins_4181</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/jenkinsport/releases/download/STABLE_jenkinsport_4194/jenkins-2.558.20260408_060412.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_jenkins_4194</a></div>
     <div class="tool-desc" title="A continuous integration server">A continuous integration server</div>
   </div>
 </div>
@@ -3016,12 +3016,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="meta" data-searchable-text="meta Green 100.0% STABLE_meta_4190 zopen package manager utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="meta" data-searchable-text="meta Green 100.0% STABLE_meta_4192 zopen package manager utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/metaport" target="_blank" rel="noopener noreferrer">meta</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/metaport/releases/download/STABLE_metaport_4190/meta-main.20260407_092624.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_meta_4190</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/metaport/releases/download/STABLE_metaport_4192/meta-main.20260407_123326.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_meta_4192</a></div>
     <div class="tool-desc" title="zopen package manager">zopen package manager</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-04-07 06:18:10 UTC
+Last updated:  2026-04-08 06:19:38 UTC

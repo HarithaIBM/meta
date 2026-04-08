@@ -107,16 +107,19 @@
 - 2025-09-09: [Update cjson-version to 1.7.19 from 1.7.18](https://github.com/zopencommunity/cjsonport/pull/3) ❓
 
 ### clangdport
+- 2026-04-07: [Update clangd-version to 22.1.3 from 21.1.8](https://github.com/zopencommunity/clangdport/pull/8) ❌
 - 2026-03-25: [Update clangd-version to 22.1.2 from 21.1.8](https://github.com/zopencommunity/clangdport/pull/7) ❌
 - 2026-03-11: [Update clangd-version to 22.1.1 from 21.1.8](https://github.com/zopencommunity/clangdport/pull/6) ❌
 - 2026-02-24: [Update clangd-version to 22.1.0 from 21.1.8](https://github.com/zopencommunity/clangdport/pull/5) ❌
 
 ### clang-formatport
+- 2026-04-07: [Update clang-format-version to 22.1.3 from 21.1.8](https://github.com/zopencommunity/clang-formatport/pull/13) ❌
 - 2026-03-25: [Update clang-format-version to 22.1.2 from 21.1.8](https://github.com/zopencommunity/clang-formatport/pull/12) ❌
 - 2026-03-11: [Update clang-format-version to 22.1.1 from 21.1.8](https://github.com/zopencommunity/clang-formatport/pull/11) ❌
 - 2026-02-24: [Update clang-format-version to 22.1.0 from 21.1.8](https://github.com/zopencommunity/clang-formatport/pull/10) ❌
 
 ### clang-tidyport
+- 2026-04-07: [Update clang-tidy-version to 22.1.3 from 21.1.8](https://github.com/zopencommunity/clang-tidyport/pull/6) ❌
 - 2026-03-25: [Update clang-tidy-version to 22.1.2 from 21.1.8](https://github.com/zopencommunity/clang-tidyport/pull/5) ❌
 - 2026-03-11: [Update clang-tidy-version to 22.1.1 from 21.1.8](https://github.com/zopencommunity/clang-tidyport/pull/4) ❌
 - 2026-02-24: [Update clang-tidy-version to 22.1.0 from 21.1.8](https://github.com/zopencommunity/clang-tidyport/pull/3) ❌
@@ -154,6 +157,7 @@
 - 2025-02-01: [Update creduce-version to 2.10.0 from V.R.M](https://github.com/zopencommunity/creduceport/pull/1) ❓
 
 ### crushport
+- 2026-04-07: [Update crush-version to 0.55.1 from 0.11.0](https://github.com/zopencommunity/crushport/pull/103) ❌
 - 2026-04-03: [Update crush-version to 0.55.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/102) ❌
 - 2026-04-01: [Update crush-version to 0.54.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/101) ❌
 - 2026-03-28: [Update crush-version to 0.53.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/100) ❌
@@ -183,7 +187,6 @@
 - 2026-02-05: [Update crush-version to 0.39.3 from 0.11.0](https://github.com/zopencommunity/crushport/pull/76) ❌
 - 2026-02-04: [Update crush-version to 0.39.1 from 0.11.0](https://github.com/zopencommunity/crushport/pull/75) ❌
 - 2026-02-03: [Update crush-version to 0.38.1 from 0.11.0](https://github.com/zopencommunity/crushport/pull/74) ❌
-- 2026-02-02: [Update crush-version to 0.38.0 from 0.11.0](https://github.com/zopencommunity/crushport/pull/73) ❌
 
 ### cunitport
 - 2026-01-20: [Update cunit-version to 3.5.4 from 3.2.7](https://github.com/zopencommunity/cunitport/pull/11) ❌
@@ -309,7 +312,7 @@
 - 2025-04-17: [Update gitlab-runner-version to 17.11.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/38) ❌
 - 2025-03-26: [Update gitlab-runner-version to 17.10.1 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/37) ❌
 - 2025-03-19: [Update gitlab-runner-version to 17.10.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/36) ❌
-- 2025-02-20: [Update gitlab-runner-version to 17.9.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/34) ❌
+- 2025-02-20: [Update gitlab-runner-version to 17.9.0 from 17.6.0](https://github.com/zopencommunity/gitlab-runnerport/pull/34) ❓
 
 ### git-sizerport
 - 2025-04-10: [Update git-sizer-version to 1.5.0 from V.R.M](https://github.com/zopencommunity/git-sizerport/pull/1) ✅
@@ -411,6 +414,7 @@
 - 2025-10-10: [Update libgpgme-version to 2.0.1 from 1.23.2](https://github.com/zopencommunity/libgpgmeport/pull/3) ❌
 
 ### libompport
+- 2026-04-07: [Update libomp-version to 22.1.3 from 21.1.8](https://github.com/zopencommunity/libompport/pull/7) ❌
 - 2026-03-25: [Update libomp-version to 22.1.2 from 21.1.8](https://github.com/zopencommunity/libompport/pull/6) ❌
 - 2026-03-11: [Update libomp-version to 22.1.1 from 21.1.8](https://github.com/zopencommunity/libompport/pull/5) ❌
 - 2026-02-24: [Update libomp-version to 22.1.0 from 21.1.8](https://github.com/zopencommunity/libompport/pull/4) ❌
@@ -1045,5 +1049,5 @@
 ---
 
 
-> Last updated: 2026-04-07 06:10:54 EDT
+> Last updated: 2026-04-08 06:11:07 EDT
 
