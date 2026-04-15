@@ -1,14 +1,14 @@
 # Upstream Patch Status Report
 
-*Report generated on: 2026-04-14 06:18:24 EDT.*
+*Report generated on: 2026-04-15 06:16:38 EDT.*
 
 ## Overall Summary
 
 - **Total Projects Analyzed:** 304
-- **Total Current Lines of Code (LOC) in Patches:** 57,876
-- **Total Number of Current Patch Files:** 1,041
-- **Average Current Patch LOC per Project:** 190.38
-- **Average Current Patch Count per Project:** 3.42
+- **Total Current Lines of Code (LOC) in Patches:** 58,098
+- **Total Number of Current Patch Files:** 1,043
+- **Average Current Patch LOC per Project:** 191.11
+- **Average Current Patch Count per Project:** 3.43
 
 ### Historical Trends (All Projects)
 
@@ -29,7 +29,7 @@
 | [librdkafkaport](#repo-librdkafkaport) | 2,638 | +0 | 54 |
 | [libuvport](#repo-libuvport) | 2,494 | +9 | 32 |
 | [oqs-providerport](#repo-oqs-providerport) | 2,037 | +0 | 18 |
-| [curlport](#repo-curlport) | 1,841 | +0 | 47 |
+| [curlport](#repo-curlport) | 1,844 | +3 | 47 |
 | [rpmport](#repo-rpmport) | 1,792 | -22 | 32 |
 | [llamacppport](#repo-llamacppport) | 1,649 | +0 | 35 |
 | [bashport](#repo-bashport) | 1,635 | -2,791 | 25 |
@@ -82,6 +82,7 @@
 | [mesonport](#repo-mesonport) | 257 | +0 | 9 |
 | [gitlab-runnerport](#repo-gitlab-runnerport) | 241 | +0 | 10 |
 | [zstdport](#repo-zstdport) | 236 | +0 | 4 |
+| [fileport](#repo-fileport) | 234 | +219 | 3 |
 | [toml11port](#repo-toml11port) | 217 | +0 | 3 |
 | [ninjaport](#repo-ninjaport) | 210 | +0 | 8 |
 | [nnnport](#repo-nnnport) | 206 | +0 | 1 |
@@ -194,7 +195,6 @@
 | [libxsltport](#repo-libxsltport) | 15 | +0 | 1 |
 | [libpcreport](#repo-libpcreport) | 15 | +0 | 1 |
 | [libmdport](#repo-libmdport) | 15 | +0 | 1 |
-| [fileport](#repo-fileport) | 15 | +0 | 1 |
 | [cppunitport](#repo-cppunitport) | 15 | +0 | 1 |
 | [libxauport](#repo-libxauport) | 15 | +0 | 1 |
 | [nghttp2port](#repo-nghttp2port) | 14 | +0 | 1 |
@@ -564,7 +564,7 @@
 ## curlport
 
 - **Origin Date (First Commit):** 2022-04-08
-- **Current Patch LOC:** 1,841
+- **Current Patch LOC:** 1,844
 - **Current Patch Count:** 47
 
 ### Historical Trends
@@ -580,14 +580,14 @@
 | `stable-patches/add-upload-encoding.patch` | `stable-patches` | 32 |
 | `stable-patches/configure.patch` | `stable-patches` | 15 |
 | `stable-patches/src/tool_cb_rea.c.patch` | `stable-patches` | 71 |
-| `stable-patches/src/tool_cb_wrt.c.patch` | `stable-patches` | 122 |
+| `stable-patches/src/tool_cb_wrt.c.patch` | `stable-patches` | 121 |
 | `stable-patches/src/tool_cfgable.c.patch` | `stable-patches` | 16 |
 | `stable-patches/src/tool_cfgable.h.patch` | `stable-patches` | 22 |
 | `stable-patches/src/tool_getparam.c.patch` | `stable-patches` | 83 |
 | `stable-patches/src/tool_getparam.h.patch` | `stable-patches` | 21 |
 | `stable-patches/src/tool_listhelp.c.patch` | `stable-patches` | 28 |
-| `stable-patches/src/tool_operate.c.patch` | `stable-patches` | 395 |
-| `stable-patches/src/tool_operate.h.patch` | `stable-patches` | 63 |
+| `stable-patches/src/tool_operate.c.patch` | `stable-patches` | 400 |
+| `stable-patches/src/tool_operate.h.patch` | `stable-patches` | 62 |
 | `stable-patches/src/tool_sdecls.h.patch` | `stable-patches` | 12 |
 | `stable-patches/tests/data/Makefile.am.patch` | `stable-patches` | 13 |
 | `stable-patches/tests/data/data1400.c.patch` | `stable-patches` | 12 |
@@ -2185,6 +2185,28 @@
 | `patches/PR1/addzostomakefile.patch` | `patches` | 44 |
 | `patches/PR1/assertfirst.patch` | `patches` | 99 |
 | `patches/tests_Makefile.patch` | `patches` | 64 |
+
+---
+
+<a id="repo-fileport"></a>
+## fileport
+
+- **Origin Date (First Commit):** 2025-05-29
+- **Current Patch LOC:** 234
+- **Current Patch Count:** 3
+
+### Historical Trends
+
+![LOC Trend for fileport](images/upstream/fileport_current_loc_trend.png)
+![Count Trend for fileport](images/upstream/fileport_current_count_trend.png)
+
+### Current Patch Details
+
+| Patch File (Repo Relative Path) | Source | LOC |
+|---|---|:---|
+| `patches/configure.patch` | `patches` | 15 |
+| `patches/endianfix.patch` | `patches` | 156 |
+| `patches/regex.patch` | `patches` | 63 |
 
 ---
 
@@ -4576,26 +4598,6 @@
 
 ![LOC Trend for libmdport](images/upstream/libmdport_current_loc_trend.png)
 ![Count Trend for libmdport](images/upstream/libmdport_current_count_trend.png)
-
-### Current Patch Details
-
-| Patch File (Repo Relative Path) | Source | LOC |
-|---|---|:---|
-| `patches/configure.patch` | `patches` | 15 |
-
----
-
-<a id="repo-fileport"></a>
-## fileport
-
-- **Origin Date (First Commit):** 2025-05-29
-- **Current Patch LOC:** 15
-- **Current Patch Count:** 1
-
-### Historical Trends
-
-![LOC Trend for fileport](images/upstream/fileport_current_loc_trend.png)
-![Count Trend for fileport](images/upstream/fileport_current_count_trend.png)
 
 ### Current Patch Details
 

@@ -1982,12 +1982,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="zoslib" data-searchable-text="zoslib Green 100.0% STABLE_zoslib_4166 A library used by z/OS Open Tools library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="zoslib" data-searchable-text="zoslib Green 100.0% STABLE_zoslib_4206 A library used by z/OS Open Tools library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/zoslibport" target="_blank" rel="noopener noreferrer">zoslib</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/zoslibport/releases/download/STABLE_zoslibport_4166/zoslib-zopen2.20260326_043921.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_zoslib_4166</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/zoslibport/releases/download/STABLE_zoslibport_4206/zoslib-zopen2.20260414_154918.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_zoslib_4206</a></div>
     <div class="tool-desc" title="A library used by z/OS Open Tools">A library used by z/OS Open Tools</div>
   </div>
 </div>
@@ -2540,12 +2540,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="curl" data-searchable-text="curl Blue 99.7% STABLE_curl_4177 Networking tool uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="curl" data-searchable-text="curl Blue 99.7% STABLE_curl_4203 Networking tool uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/curlport" target="_blank" rel="noopener noreferrer">curl</a></strong></div>
     <div class="tool-status">Status: Blue</div>
     <div class="tool-test">Test: 99.7%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/curlport/releases/download/STABLE_curlport_4177/curl-8.18.0.20260331_120737.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_curl_4177</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/curlport/releases/download/STABLE_curlport_4203/curl-8.19.0.20260414_105046.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_curl_4203</a></div>
     <div class="tool-desc" title="Networking tool">Networking tool</div>
   </div>
 </div>
@@ -2836,12 +2836,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="file" data-searchable-text="file Green 100.0% STABLE_file_4097 utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="file" data-searchable-text="file Green 100.0% STABLE_file_4204 utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/fileport" target="_blank" rel="noopener noreferrer">file</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/fileport/releases/download/STABLE_fileport_4097/file-5.47.20260227_154236.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_file_4097</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/fileport/releases/download/STABLE_fileport_4204/file-5.47.20260414_122619.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_file_4204</a></div>
     <div class="tool-desc" title=""></div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-04-14 06:20:24 UTC
+Last updated:  2026-04-15 06:19:28 UTC
