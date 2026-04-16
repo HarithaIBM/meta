@@ -1,13 +1,13 @@
 # Upstream Patch Status Report
 
-*Report generated on: 2026-04-15 06:16:38 EDT.*
+*Report generated on: 2026-04-16 06:18:45 EDT.*
 
 ## Overall Summary
 
 - **Total Projects Analyzed:** 304
-- **Total Current Lines of Code (LOC) in Patches:** 58,098
-- **Total Number of Current Patch Files:** 1,043
-- **Average Current Patch LOC per Project:** 191.11
+- **Total Current Lines of Code (LOC) in Patches:** 57,964
+- **Total Number of Current Patch Files:** 1,044
+- **Average Current Patch LOC per Project:** 190.67
 - **Average Current Patch Count per Project:** 3.43
 
 ### Historical Trends (All Projects)
@@ -26,8 +26,8 @@
 |---|:---|:---|:---|
 | [htopport](#repo-htopport) | 4,550 | +0 | 22 |
 | [stablediffusionport](#repo-stablediffusionport) | 2,905 | +0 | 6 |
-| [librdkafkaport](#repo-librdkafkaport) | 2,638 | +0 | 54 |
 | [libuvport](#repo-libuvport) | 2,494 | +9 | 32 |
+| [librdkafkaport](#repo-librdkafkaport) | 2,490 | -148 | 54 |
 | [oqs-providerport](#repo-oqs-providerport) | 2,037 | +0 | 18 |
 | [curlport](#repo-curlport) | 1,844 | +3 | 47 |
 | [rpmport](#repo-rpmport) | 1,792 | -22 | 32 |
@@ -197,6 +197,7 @@
 | [libmdport](#repo-libmdport) | 15 | +0 | 1 |
 | [cppunitport](#repo-cppunitport) | 15 | +0 | 1 |
 | [libxauport](#repo-libxauport) | 15 | +0 | 1 |
+| [onigurumaport](#repo-onigurumaport) | 14 | +14 | 1 |
 | [nghttp2port](#repo-nghttp2port) | 14 | +0 | 1 |
 | [bisonport](#repo-bisonport) | 13 | +0 | 1 |
 | [ncduport](#repo-ncduport) | 13 | +0 | 1 |
@@ -239,7 +240,6 @@
 | [gumport](#repo-gumport) | 0 | +0 | 0 |
 | [wharfport](#repo-wharfport) | 0 | +0 | 0 |
 | [dufport](#repo-dufport) | 0 | +0 | 0 |
-| [onigurumaport](#repo-onigurumaport) | 0 | +0 | 0 |
 | [janssonport](#repo-janssonport) | 0 | +0 | 0 |
 | [luarocksport](#repo-luarocksport) | 0 | +0 | 0 |
 | [termenvport](#repo-termenvport) | 0 | +0 | 0 |
@@ -399,79 +399,6 @@
 
 ---
 
-<a id="repo-librdkafkaport"></a>
-## librdkafkaport
-
-- **Origin Date (First Commit):** 2023-07-27
-- **Current Patch LOC:** 2,638
-- **Current Patch Count:** 54
-
-### Historical Trends
-
-![LOC Trend for librdkafkaport](images/upstream/librdkafkaport_current_loc_trend.png)
-![Count Trend for librdkafkaport](images/upstream/librdkafkaport_current_count_trend.png)
-
-### Current Patch Details
-
-| Patch File (Repo Relative Path) | Source | LOC |
-|---|---|:---|
-| `patches/configure.self.patch` | `patches` | 20 |
-| `patches/examples/alter_consumer_group_offsets.c.patch` | `patches` | 13 |
-| `patches/examples/describe_consumer_groups.c.patch` | `patches` | 13 |
-| `patches/examples/incremental_alter_configs.c.patch` | `patches` | 13 |
-| `patches/examples/kafkatest_verifiable_client.cpp.patch` | `patches` | 13 |
-| `patches/examples/list_consumer_group_offsets.c.patch` | `patches` | 13 |
-| `patches/examples/list_consumer_groups.c.patch` | `patches` | 13 |
-| `patches/examples/misc.c.patch` | `patches` | 13 |
-| `patches/examples/openssl_engine_example.cpp.patch` | `patches` | 13 |
-| `patches/examples/rdkafka_complex_consumer_example.c.patch` | `patches` | 14 |
-| `patches/examples/rdkafka_complex_consumer_example.cpp.patch` | `patches` | 13 |
-| `patches/examples/rdkafka_example.c.patch` | `patches` | 14 |
-| `patches/examples/rdkafka_example.cpp.patch` | `patches` | 13 |
-| `patches/examples/user_scram.c.patch` | `patches` | 13 |
-| `patches/mklove/Makefile.base.patch` | `patches` | 41 |
-| `patches/src-cpp/Makefile.patch` | `patches` | 13 |
-| `patches/src/rd.h.patch` | `patches` | 40 |
-| `patches/src/rdaddr.c.patch` | `patches` | 125 |
-| `patches/src/rdcrc32.c.patch` | `patches` | 13 |
-| `patches/src/rdcrc32.h.patch` | `patches` | 22 |
-| `patches/src/rdendian.h.patch` | `patches` | 14 |
-| `patches/src/rdhdrhistogram.c.patch` | `patches` | 25 |
-| `patches/src/rdhttp.c.patch` | `patches` | 77 |
-| `patches/src/rdkafka.c.patch` | `patches` | 367 |
-| `patches/src/rdkafka.h.patch` | `patches` | 16 |
-| `patches/src/rdkafka_broker.c.patch` | `patches` | 48 |
-| `patches/src/rdkafka_conf.c.patch` | `patches` | 264 |
-| `patches/src/rdkafka_conf.h.patch` | `patches` | 28 |
-| `patches/src/rdkafka_feature.c.patch` | `patches` | 51 |
-| `patches/src/rdkafka_int.h.patch` | `patches` | 62 |
-| `patches/src/rdkafka_interceptor.c.patch` | `patches` | 34 |
-| `patches/src/rdkafka_offset.c.patch` | `patches` | 58 |
-| `patches/src/rdkafka_op.c.patch` | `patches` | 21 |
-| `patches/src/rdkafka_partition.c.patch` | `patches` | 34 |
-| `patches/src/rdkafka_queue.c.patch` | `patches` | 73 |
-| `patches/src/rdkafka_queue.h.patch` | `patches` | 18 |
-| `patches/src/rdkafka_request.c.patch` | `patches` | 25 |
-| `patches/src/rdkafka_sasl_oauthbearer_oidc.c.patch` | `patches` | 371 |
-| `patches/src/rdkafka_ssl.c.patch` | `patches` | 58 |
-| `patches/src/rdkafka_transport.c.patch` | `patches` | 137 |
-| `patches/src/rdkafka_transport_int.h.patch` | `patches` | 15 |
-| `patches/src/rdlist.c.patch` | `patches` | 72 |
-| `patches/src/rdports.c.patch` | `patches` | 52 |
-| `patches/src/rdposix.h.patch` | `patches` | 49 |
-| `patches/src/rdrand.c.patch` | `patches` | 38 |
-| `patches/src/snappy_compat.h.patch` | `patches` | 13 |
-| `patches/src/tinycthread.c.patch` | `patches` | 66 |
-| `patches/src/tinycthread.h.patch` | `patches` | 16 |
-| `patches/src/tinycthread_extra.c.patch` | `patches` | 13 |
-| `patches/tests/0017-compression.c.patch` | `patches` | 16 |
-| `patches/tests/0056-balanced_group_mt.c.patch` | `patches` | 16 |
-| `patches/tests/0146-metadata_mock.c.patch` | `patches` | 13 |
-| `patches/tests/sockem.c.patch` | `patches` | 17 |
-| `patches/tests/sockem_ctrl.h.patch` | `patches` | 16 |
-
----
-
 <a id="repo-libuvport"></a>
 ## libuvport
 
@@ -520,6 +447,79 @@
 | `stable-patches/test/test-spawn.c.patch` | `stable-patches` | 59 |
 | `stable-patches/test/test-thread-name.c.patch` | `stable-patches` | 14 |
 | `stable-patches/test/test-thread-priority.c.patch` | `stable-patches` | 21 |
+
+---
+
+<a id="repo-librdkafkaport"></a>
+## librdkafkaport
+
+- **Origin Date (First Commit):** 2023-07-27
+- **Current Patch LOC:** 2,490
+- **Current Patch Count:** 54
+
+### Historical Trends
+
+![LOC Trend for librdkafkaport](images/upstream/librdkafkaport_current_loc_trend.png)
+![Count Trend for librdkafkaport](images/upstream/librdkafkaport_current_count_trend.png)
+
+### Current Patch Details
+
+| Patch File (Repo Relative Path) | Source | LOC |
+|---|---|:---|
+| `patches/configure.self.patch` | `patches` | 20 |
+| `patches/examples/alter_consumer_group_offsets.c.patch` | `patches` | 13 |
+| `patches/examples/describe_consumer_groups.c.patch` | `patches` | 13 |
+| `patches/examples/incremental_alter_configs.c.patch` | `patches` | 13 |
+| `patches/examples/kafkatest_verifiable_client.cpp.patch` | `patches` | 13 |
+| `patches/examples/list_consumer_group_offsets.c.patch` | `patches` | 13 |
+| `patches/examples/list_consumer_groups.c.patch` | `patches` | 13 |
+| `patches/examples/misc.c.patch` | `patches` | 13 |
+| `patches/examples/openssl_engine_example.cpp.patch` | `patches` | 13 |
+| `patches/examples/rdkafka_complex_consumer_example.c.patch` | `patches` | 14 |
+| `patches/examples/rdkafka_complex_consumer_example.cpp.patch` | `patches` | 13 |
+| `patches/examples/rdkafka_example.c.patch` | `patches` | 14 |
+| `patches/examples/rdkafka_example.cpp.patch` | `patches` | 13 |
+| `patches/examples/user_scram.c.patch` | `patches` | 13 |
+| `patches/mklove/Makefile.base.patch` | `patches` | 41 |
+| `patches/src-cpp/Makefile.patch` | `patches` | 13 |
+| `patches/src/rd.h.patch` | `patches` | 40 |
+| `patches/src/rdaddr.c.patch` | `patches` | 125 |
+| `patches/src/rdcrc32.c.patch` | `patches` | 13 |
+| `patches/src/rdcrc32.h.patch` | `patches` | 22 |
+| `patches/src/rdendian.h.patch` | `patches` | 14 |
+| `patches/src/rdhdrhistogram.c.patch` | `patches` | 25 |
+| `patches/src/rdhttp.c.patch` | `patches` | 77 |
+| `patches/src/rdkafka.c.patch` | `patches` | 324 |
+| `patches/src/rdkafka.h.patch` | `patches` | 16 |
+| `patches/src/rdkafka_broker.c.patch` | `patches` | 48 |
+| `patches/src/rdkafka_conf.c.patch` | `patches` | 192 |
+| `patches/src/rdkafka_conf.h.patch` | `patches` | 28 |
+| `patches/src/rdkafka_feature.c.patch` | `patches` | 51 |
+| `patches/src/rdkafka_int.h.patch` | `patches` | 62 |
+| `patches/src/rdkafka_interceptor.c.patch` | `patches` | 34 |
+| `patches/src/rdkafka_offset.c.patch` | `patches` | 58 |
+| `patches/src/rdkafka_op.c.patch` | `patches` | 21 |
+| `patches/src/rdkafka_partition.c.patch` | `patches` | 34 |
+| `patches/src/rdkafka_queue.c.patch` | `patches` | 72 |
+| `patches/src/rdkafka_queue.h.patch` | `patches` | 18 |
+| `patches/src/rdkafka_request.c.patch` | `patches` | 25 |
+| `patches/src/rdkafka_sasl_oauthbearer_oidc.c.patch` | `patches` | 345 |
+| `patches/src/rdkafka_ssl.c.patch` | `patches` | 48 |
+| `patches/src/rdkafka_transport.c.patch` | `patches` | 140 |
+| `patches/src/rdkafka_transport_int.h.patch` | `patches` | 15 |
+| `patches/src/rdlist.c.patch` | `patches` | 72 |
+| `patches/src/rdports.c.patch` | `patches` | 52 |
+| `patches/src/rdposix.h.patch` | `patches` | 49 |
+| `patches/src/rdrand.c.patch` | `patches` | 30 |
+| `patches/src/snappy_compat.h.patch` | `patches` | 13 |
+| `patches/src/tinycthread.c.patch` | `patches` | 66 |
+| `patches/src/tinycthread.h.patch` | `patches` | 16 |
+| `patches/src/tinycthread_extra.c.patch` | `patches` | 22 |
+| `patches/tests/0017-compression.c.patch` | `patches` | 16 |
+| `patches/tests/0056-balanced_group_mt.c.patch` | `patches` | 16 |
+| `patches/tests/0146-metadata_mock.c.patch` | `patches` | 13 |
+| `patches/tests/sockem.c.patch` | `patches` | 17 |
+| `patches/tests/sockem_ctrl.h.patch` | `patches` | 16 |
 
 ---
 
@@ -4647,6 +4647,26 @@
 
 ---
 
+<a id="repo-onigurumaport"></a>
+## onigurumaport
+
+- **Origin Date (First Commit):** 2023-07-20
+- **Current Patch LOC:** 14
+- **Current Patch Count:** 1
+
+### Historical Trends
+
+![LOC Trend for onigurumaport](images/upstream/onigurumaport_current_loc_trend.png)
+![Count Trend for onigurumaport](images/upstream/onigurumaport_current_count_trend.png)
+
+### Current Patch Details
+
+| Patch File (Repo Relative Path) | Source | LOC |
+|---|---|:---|
+| `patches/regexec.patch` | `patches` | 14 |
+
+---
+
 <a id="repo-nghttp2port"></a>
 ## nghttp2port
 
@@ -5421,24 +5441,6 @@
 ## dufport
 
 - **Origin Date (First Commit):** 2023-07-14
-- **Current Patch LOC:** 0
-- **Current Patch Count:** 0
-
-### Historical Trends
-
-*(Patch LOC trend graph not generated)*
-*(Patch count trend graph not generated)*
-
-### Current Patch Details
-
-*No current patches found in tracked directories (stable-patches, dev-patches, patches).*
-
----
-
-<a id="repo-onigurumaport"></a>
-## onigurumaport
-
-- **Origin Date (First Commit):** 2023-07-20
 - **Current Patch LOC:** 0
 - **Current Patch Count:** 0
 

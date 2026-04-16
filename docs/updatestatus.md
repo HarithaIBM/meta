@@ -494,6 +494,7 @@
 - 2026-04-08: [Update nano-version to 9.0 from 8.7.1](https://github.com/zopencommunity/nanoport/pull/23) ❌
 
 ### natsport
+- 2026-04-15: [Update nats-version to 2.12.7 from 2.12.5](https://github.com/zopencommunity/natsport/pull/40) ❌
 - 2026-03-25: [Update nats-version to 2.12.6 from 2.12.5](https://github.com/zopencommunity/natsport/pull/39) ❌
 
 ### ncduport
@@ -1077,5 +1078,5 @@
 ---
 
 
-> Last updated: 2026-04-15 06:11:17 EDT
+> Last updated: 2026-04-16 06:11:51 EDT
 
