@@ -1742,12 +1742,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="librdkafka" data-searchable-text="librdkafka Green 100.0% STABLE_librdkafka_4209 A high-performance C/C++ library for Apache Kafka library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="librdkafka" data-searchable-text="librdkafka Green 100.0% STABLE_librdkafka_4213 A high-performance C/C++ library for Apache Kafka library port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/librdkafkaport" target="_blank" rel="noopener noreferrer">librdkafka</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/librdkafkaport/releases/download/STABLE_librdkafkaport_4209/librdkafka-v2.14.1.20260415_183224.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_librdkafka_4209</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/librdkafkaport/releases/download/STABLE_librdkafkaport_4213/librdkafka-v2.14.1.20260416_165030.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_librdkafka_4213</a></div>
     <div class="tool-desc" title="A high-performance C/C++ library for Apache Kafka">A high-performance C/C++ library for Apache Kafka</div>
   </div>
 </div>
@@ -2660,12 +2660,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="ncurses" data-searchable-text="ncurses Green 100.0% STABLE_ncurses_4013 Library for ncurses, a terminal screen handling library uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="ncurses" data-searchable-text="ncurses Green 100.0% STABLE_ncurses_4214 Library for ncurses, a terminal screen handling library uncategorized port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/ncursesport" target="_blank" rel="noopener noreferrer">ncurses</a></strong></div>
     <div class="tool-status">Status: Green</div>
     <div class="tool-test">Test: 100.0%</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/ncursesport/releases/download/STABLE_ncursesport_4013/ncurses-6.6.20260129_223023.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_ncurses_4013</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/ncursesport/releases/download/STABLE_ncursesport_4214/ncurses-6.6.20260417_094817.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_ncurses_4214</a></div>
     <div class="tool-desc" title="Library for ncurses, a terminal screen handling library">Library for ncurses, a terminal screen handling library</div>
   </div>
 </div>
@@ -3046,12 +3046,12 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
   </div>
 </div>
 
-<div class="tool-item-filterable" data-package-name="moreutils" data-searchable-text="moreutils Skipped N/A STABLE_moreutils_3184 A collection of text processing utilities utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
+<div class="tool-item-filterable" data-package-name="moreutils" data-searchable-text="moreutils Skipped N/A STABLE_moreutils_4212 A collection of text processing utilities utilities port" style="padding: 8px 0; border-bottom: 1px solid #eee;">
   <div class="tool-info-grid">
     <div class="tool-name"><strong><a href="https://github.com/zopencommunity/moreutilsport" target="_blank" rel="noopener noreferrer">moreutils</a></strong></div>
     <div class="tool-status">Status: Skipped</div>
     <div class="tool-test">Test: N/A</div>
-    <div class="tool-release"><a href="https://github.com/zopencommunity/moreutilsport/releases/download/STABLE_moreutilsport_3184/moreutils-0.69.20250331_135235.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_moreutils_3184</a></div>
+    <div class="tool-release"><a href="https://github.com/zopencommunity/moreutilsport/releases/download/STABLE_moreutilsport_4212/moreutils-0.70.20260416_155120.zos.pax.Z" target="_blank" rel="noopener noreferrer">STABLE_moreutils_4212</a></div>
     <div class="tool-desc" title="A collection of text processing utilities">A collection of text processing utilities</div>
   </div>
 </div>
@@ -3369,4 +3369,4 @@ Note: to download the latest packages, use the [zopen package manager](/Guides/Q
 </div>
 
 
-Last updated:  2026-04-16 06:21:11 UTC
+Last updated:  2026-04-17 06:20:06 UTC
