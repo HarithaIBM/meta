@@ -26,6 +26,15 @@ def testStatus = "Skipped"
 
 node('linux')
 {
+  stage('Debug Git') {
+    sh '''
+        export GIT_TRACE=1
+        export GIT_CURL_VERBOSE=1
+        export GIT_TRACE_PACKET=1
+        git --version
+        git config --list --show-origin
+    '''
+  }
   stage('Build and Test') {
     // Build Job : https://cicd.zopen.community/view/Framework/job/Port-Build/
     buildResult = build job: 'port-build-test-dh', propagate: false, parameters: [string(name: 'PORT_GITHUB_REPO', value: "${repo}"),
